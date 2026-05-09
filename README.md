@@ -120,7 +120,7 @@ Conceptual integration of observation layers, relational state representation, a
 
 Operational framework for observing dialogue-phase transitions through measurable trajectory indicators.
 
-![Figure 2](figures/Figure2-combined.png)
+![Figure 2](figures/Figure2_combined.png)
 
 ---
 
@@ -128,7 +128,7 @@ Operational framework for observing dialogue-phase transitions through measurabl
 
 Overview of the broader research program, including core theory, foundational documents, research paper networks, and future extensions.
 
-![Figure 3](figures/Figure3-combined.png)
+![Figure 3](figures/Figure3_combined.png)
 
 
 
