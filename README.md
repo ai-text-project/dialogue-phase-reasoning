@@ -106,6 +106,32 @@ This companion repository contains medium-density explanatory articles, conceptu
 
 ---
 
+# Core Research Figures
+
+## Figure 1 — Integrated Concept Architecture
+
+Conceptual integration of observation layers, relational state representation, and generative transition mechanisms.
+
+![Figure 1](figures/figure1-integrated-concept-architecture.png)
+
+---
+
+## Figure 2 — Operational Measurement Framework
+
+Operational framework for observing dialogue-phase transitions through measurable trajectory indicators.
+
+![Figure 2](figures/figure2-operational-measurement-framework.png)
+
+---
+
+## Figure 3 — Research Program Structure
+
+Overview of the broader research program, including core theory, foundational documents, research paper networks, and future extensions.
+
+![Figure 3](figures/figure3-research-program-structure.png)
+
+
+
 # External Links
 
 * Medium
