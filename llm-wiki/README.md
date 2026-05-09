@@ -47,7 +47,7 @@ This repository extends those directions toward persistent dialogue-centered sem
 
 ## Figure 1 — Transition Toward Persistent Semantic Architectures
 
-![Figure 1](figures/figure1-combined.png)
+![Figure 1](figures/Figure1-combined.png)
 
 Conceptual transition from retrieval-centered systems toward persistent semantic architectures.
 
@@ -55,7 +55,7 @@ Conceptual transition from retrieval-centered systems toward persistent semantic
 
 ## Figure 2 — Layered Conceptual Architecture for Persistent Human–AI Semantic Systems
 
-![Figure 2](figures/figure2-combined.png)
+![Figure 2](figures/Figure2-combined.png)
 
 Layered semantic architecture including semantic compilation, dialogue continuity, governance, and external projection layers.
 
@@ -63,7 +63,7 @@ Layered semantic architecture including semantic compilation, dialogue continuit
 
 ## Figure 3 — Human–AI Co-Rectification Loop
 
-![Figure 3](figures/figure3-combined.png)
+![Figure 3](figures/Figure3-combined.png)
 
 Conceptual loop structure describing persistent semantic continuity through iterative human–AI semantic interaction.
 
