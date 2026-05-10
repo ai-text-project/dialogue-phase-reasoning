@@ -42,8 +42,6 @@ R · P ≥ θ
 
 Where:
 
-Where:
-
 - **R** = rectification density  
 - **P** = reflective pressure  
 - **θ** = critical threshold  
