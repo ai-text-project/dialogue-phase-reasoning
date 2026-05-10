@@ -38,6 +38,7 @@ The core condition is expressed as:
 
 ```text
 R · P ≥ θ
+```
 
 Where:
 
