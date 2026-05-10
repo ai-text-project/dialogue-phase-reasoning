@@ -52,41 +52,44 @@ Where:
 
 The framework treats sudden structural reconfiguration as an observable transition in a relational representation space derived from dialogue outputs.
 
-Planned Structure
+## Planned Structure
+
 1. Introduction
-Reformulation of the emergence problem
-Limits of scale-only explanations
-Position of this paper as an additional explanatory layer
+   - Reformulation of the emergence problem
+   - Limits of scale-only explanations
+   - Position of this paper as an additional explanatory layer
+
 2. Conceptual Core
-Meaning tensor field
-Rectification density R
-Reflective pressure P
-Jump condition R·P ≥ θ
+   - Meaning tensor field
+   - Rectification density R
+   - Reflective pressure P
+   - Jump condition R·P ≥ θ
 
 Mathematical expression is kept minimal in the main paper.
 
 3. Operationalization
-Observable approximations from dialogue logs
-Structural consistency and lexical-relational organization
-Definition of Δ(t)
-Identification of a candidate jump point t*
+   - Observable approximations from dialogue logs
+   - Structural consistency and lexical-relational organization
+   - Definition of Δ(t)
+   - Identification of a candidate jump point t*
 
 Detailed procedures may be placed in the appendix.
 
 4. Minimal Experimental Protocol
-Minimal test design
-Staged prompt sequences
-Repeated trials
-Prediction structure
-Falsification conditions
+   - Minimal test design
+   - Staged prompt sequences
+   - Repeated trials
+   - Prediction structure
+   - Falsification conditions
 
 This section is central for external research evaluation.
 
 5. Relation to Existing Work
-Phase transitions
-Dynamical systems
-Emergent behavior
-Representation-space analysis
+   - Phase transitions
+   - Dynamical systems
+   - Emergent behavior
+   - Representation-space analysis
+
 6. Falsifiability
 
 The framework includes compressed falsification conditions designed to distinguish genuine structural transition from ordinary content expansion or stylistic variation.
@@ -95,12 +98,17 @@ The framework includes compressed falsification conditions designed to distingui
 
 This framework contributes:
 
-a shift from scale-only emergence toward condition-based emergence
-an interaction-level state-variable model
-a structural jump criterion
-a minimal reproducible protocol
-a falsifiable account of dialogue-phase emergence
-Repository Structure
+- a shift from scale-only emergence toward condition-based emergence
+- an interaction-level state-variable model
+- a structural jump criterion
+- a minimal reproducible protocol
+- a falsifiable account of dialogue-phase emergence
+
+---
+
+## Repository Structure
+
+```text
 12p-framework/
 
 ├── README.md
@@ -112,51 +120,68 @@ Repository Structure
 │   └── core-definitions.md
 ├── manuscript/
 └── appendix/
-Core Figures
+```
+
+---
+
+## Core Figures
 
 Figures will be added gradually.
 
 Planned figures include:
 
-Figure 1 — Integrated Concept Architecture
-Figure 2 — Operational Measurement Framework
-Figure 3 — Research Program Structure
-Terminology Layer
+- Figure 1 — Integrated Concept Architecture
+- Figure 2 — Operational Measurement Framework
+- Figure 3 — Research Program Structure
+
+---
+
+## Terminology Layer
 
 The terminology directory provides supporting concept definitions for the framework.
 
 Key terms include:
 
-rectification density
-reflective pressure
-representational distance
-structural jump
-semantic state space
-dialogue-phase transition
-crystallization
-relational representation space
-Current Status
+- rectification density
+- reflective pressure
+- representational distance
+- structural jump
+- semantic state space
+- dialogue-phase transition
+- crystallization
+- relational representation space
+
+---
+
+## Current Status
 
 This is an evolving research framework.
 
 Current status:
 
-Abstract: available
-Figures: prepared
-Terminology resources: being organized
-Manuscript: in refinement
-Appendix: in progress
-Parent Repository
+- Abstract: available
+- Figures: prepared
+- Terminology resources: being organized
+- Manuscript: in refinement
+- Appendix: in progress
+
+---
+
+## Parent Repository
 
 This framework belongs to the broader:
 
+```text
 dialogue-phase-reasoning
+```
 
 research repository.
 
-Author
+---
 
-Masaaki Kurosawa
+## Author
+
+Masaaki Kurosawa  
 Independent Researcher
 
 
