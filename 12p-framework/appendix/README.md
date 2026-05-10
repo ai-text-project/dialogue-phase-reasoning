@@ -6,7 +6,33 @@ Supplementary material related to the operational measurement framework.
 
 ## Figure A1 — Temporal Dynamics of R(t), P(t), and Δ(t)
 
-[figure]
+Figure A1 (Appendix): 
+
+Temporal dynamics of R(t), P(t), and Δ(t)
+
+
+Time →
+-----------------------------------------
+
+R(t):     /─────────
+         /
+        /
+       /
+
+P(t):     /─────────
+         /
+        /
+       /
+
+Δ(t): ────────────────╮
+                      │
+                      ╰─ jump(t*)
+
+-----------------------------------------
+Critical condition:
+R(t_c) · P(t_c) ≥ θ
+
+
 
 This appendix illustrates the temporal relationship between:
 
