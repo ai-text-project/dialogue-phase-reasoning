@@ -67,6 +67,29 @@ Layered semantic architecture including semantic compilation, dialogue continuit
 
 Conceptual loop structure describing persistent semantic continuity through iterative human–AI semantic interaction.
 
+
+## Current Manuscript
+
+An early manuscript version of the LLM-Wiki conceptual framework is available below.
+
+This manuscript explores:
+
+- persistent semantic architectures
+- semantic compilation layers
+- dialogue-centered semantic systems
+- long-duration semantic continuity
+- human–AI co-rectification structures
+
+Current status:
+
+- Main body: mostly completed
+- Appendix: in progress
+- Global refinement: ongoing
+
+### Manuscript Draft
+
+- [LLM-Wiki Main Text](manuscript/llm-wiki-main-text.pdf)
+
 ---
 
 # Research Topics
