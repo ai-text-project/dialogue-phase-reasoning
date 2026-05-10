@@ -37,7 +37,7 @@ Dialogue-phase emergence may be observed when accumulated rectification density 
 The core condition is expressed as:
 
 ```text
-R · P ≥ θ
+**R · P ≥ θ**
 ```
 
 Where:
