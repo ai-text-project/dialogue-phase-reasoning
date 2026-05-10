@@ -134,11 +134,11 @@ Planned figures include:
 
 ### Figure 2 — Operational Measurement Framework
 
-![Figure 2](figures/Figure2-combined.png)
+![Figure 2](figures/Figure2_combined.png)
 
 ### Figure 3 — Research Program Structure
 
-![Figure 3](figures/Figure3-combined.png)
+![Figure 3](figures/Figure3_combined.png)
 
 ---
 
