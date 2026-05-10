@@ -42,10 +42,13 @@ R · P ≥ θ
 
 Where:
 
-R = rectification density
-P = reflective pressure
-θ = critical threshold
-Δ(t) = representational distance between successive structural states
+Where:
+
+- **R** = rectification density  
+- **P** = reflective pressure  
+- **θ** = critical threshold  
+- **Δ(t)** = representational distance between successive structural states
+
 
 The framework treats sudden structural reconfiguration as an observable transition in a relational representation space derived from dialogue outputs.
 
