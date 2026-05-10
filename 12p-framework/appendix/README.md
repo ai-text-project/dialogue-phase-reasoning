@@ -10,7 +10,7 @@ Figure A1 (Appendix):
 
 Temporal dynamics of R(t), P(t), and Δ(t)
 
-
+```text
 Time →
 -----------------------------------------
 
@@ -32,6 +32,7 @@ P(t):     /─────────
 Critical condition:
 R(t_c) · P(t_c) ≥ θ
 
+```
 
 
 This appendix illustrates the temporal relationship between:
