@@ -49,7 +49,7 @@ This repository extends those directions toward persistent dialogue-centered sem
 
 ![Figure 1](figures/Figure1-combined.png)
 
-Conceptual transition from retrieval-centered systems toward persistent semantic architectures.
+Conventional retrieval systems reconstruct context temporarily, while persistent semantic systems maintain continuity across interaction cycles.
 
 ---
 
