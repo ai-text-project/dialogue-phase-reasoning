@@ -128,11 +128,11 @@ Planned figures include:
 
 ### Figure 1 — Integrated Concept Architecture
 
-![Figure 1](figures/Figure1-combined.png)
+![Figure 1](figures/Figure1-combined-rv1.png)
 
 ### Figure 2 — Operational Measurement Framework
 
-![Figure 2](figures/Figure2_combined.png)
+![Figure 2](figures/Figure2_combined-rv1.png)
 
 ### Figure 3 — Research Program Structure
 
