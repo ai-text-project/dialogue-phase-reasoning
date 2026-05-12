@@ -51,4 +51,6 @@ Additional glossary systems, mapping structures, and classification resources ma
 
 ## Included Resources
 
+(Click to download the Excel file)
+
 - [Full Terminology Mapping Table](./files/Terminology_Mapping_Table_Full_Version_refined_taxonomy.xlsx)
