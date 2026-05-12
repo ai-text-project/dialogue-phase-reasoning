@@ -145,5 +145,6 @@ Overview of the broader research program, including core theory, foundational do
 # Author
 
 Masaaki Kurosawa
+
 Independent Researcher
 
