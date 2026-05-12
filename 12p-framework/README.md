@@ -136,7 +136,7 @@ Planned figures include:
 
 ### Figure 3 — Research Program Structure
 
-![Figure 3](figures/Figure3_combined.png)
+![Figure 3](figures/Figure3_combined-rv1.png)
 
 ---
 
