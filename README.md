@@ -128,7 +128,7 @@ Operational framework for observing dialogue-phase transitions through measurabl
 
 Overview of the broader research program, including core theory, foundational documents, research paper networks, and future extensions.
 
-![Figure 3](figures/Figure3_combined.png)
+![Figure 3](figures/Figure3_combined-rv1.png)
 
 
 
