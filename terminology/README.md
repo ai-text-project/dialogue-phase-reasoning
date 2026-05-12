@@ -46,3 +46,9 @@ Planned resources include:
 This terminology layer is currently under active refinement and expansion.
 
 Additional glossary systems, mapping structures, and classification resources may gradually be added over time.
+
+---
+
+## Included Resources
+
+- [Full Terminology Mapping Table](./files/Terminology_Mapping_Table_Full_Version_refined_taxonomy.xlsx)
