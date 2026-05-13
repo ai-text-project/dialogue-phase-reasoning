@@ -17,6 +17,49 @@ This layer supports:
 - semantic relationship tracing
 - external research orientation
 
+# Navigation Structure
+
+This navigation layer currently contains:
+
+## Concept Paths
+
+Organizes conceptual traversal flows such as:
+
+- Measurement Path
+- Semantic Architecture Path
+- Long-Duration Dialogue Path
+
+These paths describe how concepts transition across the research space.
+
+---
+
+## Cross Connections
+
+Identifies concepts that connect multiple semantic paths.
+
+Examples include:
+
+- Structural Jump
+- Projection
+- Resonance
+
+This layer highlights conceptual intersections across different conceptual domains.
+
+---
+
+## Hub Concepts
+
+Identifies central concepts that appear repeatedly across multiple repository layers.
+
+Current hub concepts include:
+
+- Resonance
+- Projection
+- Structural Jump
+- Semantic State Space
+
+These concepts function as semantic centers within the overall research topology.
+
 ---
 
 ## Suggested Reading Paths
