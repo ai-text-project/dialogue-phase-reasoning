@@ -17,6 +17,8 @@ This layer supports:
 - semantic relationship tracing
 - external research orientation
 
+---
+
 # Navigation Structure
 
 This navigation layer currently contains:
