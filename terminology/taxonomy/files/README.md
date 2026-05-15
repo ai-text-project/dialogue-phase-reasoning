@@ -2,7 +2,7 @@
 
 The taxonomy structure in this repository is partially based on the following conceptual glossary organization draft:
 
-[Open Glossary Index](./Glossary-Index.pdf)
+[Open Glossary Index](./Glossary-Index_rv1.pdf)
 
 # Taxonomy Files
 
