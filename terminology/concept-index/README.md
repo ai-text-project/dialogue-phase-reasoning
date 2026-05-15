@@ -18,6 +18,17 @@ Current resources include:
 
 ---
 
+## Status Note
+
+Some concept-index structures included in this layer
+remain exploratory and provisional.
+
+These materials are preserved primarily as
+semantic formation traces and conceptual navigation aids
+rather than finalized theoretical claims.
+
+---
+
 ## Core Concepts
 
 Representative concepts currently include:
