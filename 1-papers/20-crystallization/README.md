@@ -14,16 +14,6 @@ The focus is not only on whether a change occurred, but on whether the resulting
 - What kinds of structure remain reusable across tasks, outputs, or domains?
 - Under what conditions does semantic stabilization become observable?
 
-## What Is Included
-- selected case summaries
-- stage-oriented observations
-- notes on stabilization indicators
-- early evidence of structural retention and reuse
-
-## What Is Not Included
-- full dialogue logs
-- full internal comparison records
-- raw working materials
 
 ## Working Perspective
 Stage 2 focuses on:
