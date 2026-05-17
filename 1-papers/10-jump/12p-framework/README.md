@@ -180,3 +180,10 @@ dialogue-phase-reasoning
 ```
 
 research repository.
+
+---
+
+## Author
+
+Masaaki Kurosawa  
+Independent Researcher
