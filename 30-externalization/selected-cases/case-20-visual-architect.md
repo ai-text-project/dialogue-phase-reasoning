@@ -1,4 +1,4 @@
-# Case 20 — Visual Architect Reactivation and Structure-Preserving Compression
+# Case 21 — Visual Architect Reactivation and Structure-Preserving Compression
 
 ## Stage Relevance
 - Primary: Stage 3
