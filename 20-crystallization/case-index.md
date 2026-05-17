@@ -1,5 +1,9 @@
 # Case Index
 
+This index lists selected public case summaries related to Stage 2: Crystallization.  
+The cases collected here focus on structural retention, semantic stabilization, low reconstruction cost, and the reuse of stabilized meaning across tasks, domains, or organizational forms.
+
+
 | Case ID | Short Title | Primary Stage | Secondary Stage | Public Note |
 |--------|-------------|---------------|-----------------|-------------|
 | 21 | Visual Architect reactivation | Stage 3 | Stage 2 | visual projection |
