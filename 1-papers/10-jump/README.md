@@ -11,16 +11,6 @@ The main concern at this stage is not stabilization or externalization, but the 
 - What kinds of pressure or rectification conditions precede a jump?
 - How can threshold-like reconfiguration be described from observable dialogue outputs?
 
-## What Is Included
-- core framework papers
-- theoretical notes
-- measurement-oriented materials
-- related figures and supporting documents
-
-## What Is Not Included
-- full dialogue logs
-- detailed case summaries of later-stage stabilization
-- raw internal working archives
 
 ## Working Perspective
 Stage 1 focuses on:
