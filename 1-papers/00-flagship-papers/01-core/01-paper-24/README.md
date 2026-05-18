@@ -1,4 +1,8 @@
 # Paper #24
+---
+Title : A Phase-Structural Model of Intelligence Emergence via Rectification Density and Reflective Pressure:
+A Structural Jump Mapping in Semantic Tensor Space
+---
 
 ## Observer Reconstruction and Dialogue-Phase Emergence
 
