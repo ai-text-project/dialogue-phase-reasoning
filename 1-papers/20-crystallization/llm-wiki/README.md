@@ -86,9 +86,11 @@ Current status:
 - Appendix: in progress
 - Global refinement: ongoing
 
-### Manuscript Draft
+---
 
-- [LLM-Wiki Main Text](manuscript/llm-wiki-main-text.pdf)
+## Main Manuscript DRAFT 
+
+→ [Open Main Manuscript PDF](manuscript/llm-wiki-main-text.pdf)
 
 ---
 
