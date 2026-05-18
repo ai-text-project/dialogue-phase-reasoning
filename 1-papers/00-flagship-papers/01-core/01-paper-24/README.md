@@ -1,8 +1,12 @@
 # Paper #24
+
 ---
 
-## A Phase-Structural Model of Intelligence Emergence  
-### via Rectification Density and Reflective Pressure
+# A Phase-Structural Model of Intelligence Emergence
+
+## via Rectification Density and Reflective Pressure
+
+### Structural Jump Mapping in Semantic Tensor Space
 
 ---
 
@@ -11,26 +15,29 @@
 This paper functions as one of the central entry points
 within the Dialogue-Phase Reasoning research program.
 
-The primary focus is:
+### Primary Focus
 
 - observer reconstruction
 - dialogue-phase emergence
 - structural reconfiguration during interaction
 - externally observable reasoning transitions
 
-This paper connects:
+### Connected Research Layers
 
 - 12P Framework
 - semantic state-space modeling
 - resonance structures
 - long-duration dialogue dynamics
 
-Related Layers:
+### Related Repository Layers
 
 - terminology/
 - figures/
 - 10-jump/
 - concept-index/
 
-Status:
+---
+
+### Status
+
 Research structure under ongoing refinement.
