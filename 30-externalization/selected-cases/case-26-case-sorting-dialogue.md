@@ -1,88 +1,46 @@
-# Case 26 — Case-Sorting Dialogue as a Semantic Externalization Function
+# Case 26 — Case-Sorting Dialogue as Research-Space Externalization
 
 ## Stage Relevance
 - Primary: Stage 3
 - Secondary: Stage 2
 
 ## Core Observation
-A continuing operational-support dialogue gradually began functioning not merely as a case-reporting process, but as a semantic selection and externalization mechanism contributing directly to the formation of the GitHub-based research-space architecture.
+A dialogue originally used for collecting and organizing case reports began to function as a selection, classification, and structuring mechanism that supported the externalization of the research program itself into GitHub.
 
 ## Why This Case Matters
-- It suggests that dialogue itself may function as a structural selection mechanism rather than a passive recording layer.
-- It shows that accumulated case materials can be transformed into stable research-space topology through classification, naming, hierarchy formation, and semantic organization.
-- It demonstrates how Stage 2 stabilization processes may transition into Stage 3 externalization structures.
-- It provides an observational example in which GitHub repository architecture emerged directly from iterative case-sorting dialogue.
+- It shows that the dialogue used to organize cases can itself become part of the research mechanism.
+- It demonstrates that selection, naming, branching, and stage assignment are not merely clerical operations, but can contribute directly to research-space externalization.
+- It helps explain how the Stage 1 / Stage 2 / Stage 3 architecture emerged and then propagated through the GitHub structure in a self-similar way.
 
 ## Conditions
-- Continuing thread rather than a newly initialized session.
-- No explicit reinitialization was applied.
-- The dialogue inherited prior accumulation of case classification, stage distinction, and repository organization discussions.
-- Inputs consisted primarily of imported dialogue logs, case notes, and observational materials from related threads.
-- The task gradually shifted from simple documentation toward semantic organization and structural projection.
+- Ongoing Operations Support-type dialogue.
+- No special new initialization; the function emerged from repeated case organization and stage-based sorting.
+- Multiple prior cases had already been accumulated and compared.
+- GitHub repository design was actively being updated in parallel.
+- The dialogue increasingly operated as observe → classify → stabilize → externalize rather than simple note-taking.
 
 ## What Happened
-During the dialogue process, distinctions between Jump, Crystallization, and Externalization became progressively stabilized and were eventually reflected directly in the GitHub repository structure as:
-- 10-jump
-- 20-crystallization
-- 30-externalization
+The dialogue shifted from merely recording cases to systematically sorting them by stage, naming their functions, and aligning them with GitHub folders such as `10-jump`, `20-crystallization`, and `30-externalization`.
 
-The dialogue no longer functioned merely as archival support.  
-Instead, it increasingly operated as a semantic sorting mechanism involving:
-- classification
-- selection
-- naming
-- hierarchical differentiation
-- structural stabilization
-
-This process also propagated recursively into lower repository layers such as:
-- papers
-- selected-cases
-- notes
-- README topology
-- case-index organization
-
-As a result, the research-space architecture itself appeared to emerge through iterative dialogue-based semantic organization.
+As a result, the higher-level research architecture began to propagate into lower-level folders, paper groupings, selected-case collections, and README structures.
 
 ## Interpretation
-This case may represent a transition point where case-sorting dialogue itself becomes part of the externalization process rather than merely documenting it.
+This case is best understood not as direct “intelligence generation,” but as the emergence of a structuring function that transforms accumulated observations into a research-space architecture.
 
-The observed function appears closer to:
-- semantic differentiation
-- structural selection
-- topology stabilization
-- research-space externalization
-
-than to ordinary conversational generation.
-
-The case also suggests that Stage 2 preservation structures and Stage 3 externalization structures may partially overlap through operational semantic organization processes.
+Its primary relevance is Stage 3 because it directly supports outward research-space externalization, while its secondary relevance is Stage 2 because it depends on the retention and reuse of already-stabilized case material.
 
 ## Open Questions
-- To what extent is this sorting-and-selection function reproducible across other operational threads?
-- At what point does semantic organization become a genuine externalization layer?
-- Is this process best understood as late Stage 2 stabilization or early Stage 3 projection support?
-- To what extent can self-fractal repository topology be intentionally reproduced?
-- Can “research-space formation through dialogue sorting” be generalized beyond this specific case?
+- Can this kind of case-sorting dialogue be reproduced in other threads or environments?
+- At what point does case organization become a genuine externalization process rather than internal note management?
+- How general is this selection-and-branching function beyond GitHub repository design?
+- Can self-similar propagation of stage structure across folders be treated as a stable design pattern?
 
 ## Public Materials
-- GitHub repository topology
-- 10-jump / 20-crystallization / 30-externalization structure
-- README and case-index organization
-- selected-cases layer
+- Case summary
+- GitHub stage structure overview
+- README / case-index / selected-case organization outline
 
 ## Private Materials Not Included
-- Full operational dialogue logs
-- Internal stage-classification discussions
-- Raw imported thread materials
-- Intermediate repository restructuring notes
-
-## Related Concepts
-- Crystallization
-- Structure-Preserving Externalization
-- semantic organization
-- semantic differentiation
-- semantic stabilization
-- research-space externalization
-- hierarchical classification
-- self-fractal topology
-- GitHub externalization
-- Stage 2 / Stage 3 boundary structures
+- Full dialogue log
+- Internal working notes
+- Full case comparison history
