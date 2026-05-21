@@ -1,31 +1,43 @@
-# Paper #41
+# Paper #24
 
-## Dialogue Structure and Relational Semantic Organization
+---
 
-This paper examines how dialogue structures
-may reorganize semantic interpretation pathways
-during extended interaction.
+# A Phase-Structural Model of Intelligence Emergence
 
-Primary Focus:
+## via Rectification Density and Reflective Pressure
 
-- relational semantic structures
-- dialogue organization
-- structural reinterpretation
-- semantic routing dynamics
+### Structural Jump Mapping in Semantic Tensor Space
 
-This paper connects:
+---
 
-- structural jump models
-- semantic traversal systems
-- conceptual navigation layers
-- resonance pathways
+## Observer Reconstruction and Dialogue-Phase Emergence
 
-Related Layers:
+This paper functions as one of the central entry points
+within the Dialogue-Phase Reasoning research program.
 
-- concept-index/
+### Primary Focus
+
+- observer reconstruction
+- dialogue-phase emergence
+- structural reconfiguration during interaction
+- externally observable reasoning transitions
+
+### Connected Research Layers
+
+- 12P Framework
+- semantic state-space modeling
+- resonance structures
+- long-duration dialogue dynamics
+
+### Related Repository Layers
+
 - terminology/
 - figures/
-- 20-crystallization/
+- 10-jump/
+- concept-index/
 
-Status:
+---
+
+### Status
+
 Research structure under ongoing refinement.

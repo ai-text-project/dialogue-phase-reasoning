@@ -1,30 +1,43 @@
-# Paper #37
+# Paper #24
 
-## Externalization Pathways and Semantic Projection Structures
+---
 
-This paper examines how internal semantic organization
-may become externalized through structured interaction pathways.
+# A Phase-Structural Model of Intelligence Emergence
 
-Primary Focus:
+## via Rectification Density and Reflective Pressure
 
-- semantic projection
-- externalization pathways
-- bridge-layer organization
-- conceptual transmission
+### Structural Jump Mapping in Semantic Tensor Space
 
-This paper connects:
+---
 
-- AI Textbook Bridge
-- externalization structures
-- semantic navigation layers
-- conceptual topology
+## Observer Reconstruction and Dialogue-Phase Emergence
 
-Related Layers:
+This paper functions as one of the central entry points
+within the Dialogue-Phase Reasoning research program.
 
-- 30-externalization/
-- ai-textbook-bridge/
+### Primary Focus
+
+- observer reconstruction
+- dialogue-phase emergence
+- structural reconfiguration during interaction
+- externally observable reasoning transitions
+
+### Connected Research Layers
+
+- 12P Framework
+- semantic state-space modeling
+- resonance structures
+- long-duration dialogue dynamics
+
+### Related Repository Layers
+
+- terminology/
+- figures/
+- 10-jump/
 - concept-index/
-- Medium Hub
 
-Status:
+---
+
+### Status
+
 Research structure under ongoing refinement.

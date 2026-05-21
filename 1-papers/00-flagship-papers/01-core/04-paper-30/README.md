@@ -1,30 +1,43 @@
-# Paper #30
+# Paper #24
 
-## Resonant Intelligence and Dialogue-Phase Organization
+---
 
-This paper explores dialogue-phase organization
-as a possible framework for describing resonant intelligence structures.
+# A Phase-Structural Model of Intelligence Emergence
 
-Primary Focus:
+## via Rectification Density and Reflective Pressure
 
+### Structural Jump Mapping in Semantic Tensor Space
+
+---
+
+## Observer Reconstruction and Dialogue-Phase Emergence
+
+This paper functions as one of the central entry points
+within the Dialogue-Phase Reasoning research program.
+
+### Primary Focus
+
+- observer reconstruction
 - dialogue-phase emergence
-- resonant intelligence
-- semantic coordination
-- interaction-based organization
+- structural reconfiguration during interaction
+- externally observable reasoning transitions
 
-This paper connects:
+### Connected Research Layers
 
-- phase-transition models
+- 12P Framework
+- semantic state-space modeling
 - resonance structures
-- semantic state-space models
-- long-duration interaction systems
+- long-duration dialogue dynamics
 
-Related Layers:
+### Related Repository Layers
 
-- 10-jump/
-- llm-wiki/
 - terminology/
 - figures/
+- 10-jump/
+- concept-index/
 
-Status:
+---
+
+### Status
+
 Research structure under ongoing refinement.

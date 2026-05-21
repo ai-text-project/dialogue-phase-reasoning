@@ -1,30 +1,43 @@
-# Paper #32
+# Paper #24
 
-## Semantic State Space and Structural Transition Dynamics
+---
 
-This paper investigates semantic state-space organization
-and structural transition behavior in dialogue systems.
+# A Phase-Structural Model of Intelligence Emergence
 
-Primary Focus:
+## via Rectification Density and Reflective Pressure
 
-- semantic state spaces
-- trajectory transitions
-- phase-boundary organization
-- structural transition mapping
+### Structural Jump Mapping in Semantic Tensor Space
 
-This paper connects:
+---
 
-- Δ(t) transition analysis
-- operational measurement frameworks
-- semantic topology
-- dialogue-phase structures
+## Observer Reconstruction and Dialogue-Phase Emergence
 
-Related Layers:
+This paper functions as one of the central entry points
+within the Dialogue-Phase Reasoning research program.
 
-- 12p-framework/
-- figures/
+### Primary Focus
+
+- observer reconstruction
+- dialogue-phase emergence
+- structural reconfiguration during interaction
+- externally observable reasoning transitions
+
+### Connected Research Layers
+
+- 12P Framework
+- semantic state-space modeling
+- resonance structures
+- long-duration dialogue dynamics
+
+### Related Repository Layers
+
 - terminology/
+- figures/
 - 10-jump/
+- concept-index/
 
-Status:
+---
+
+### Status
+
 Research structure under ongoing refinement.

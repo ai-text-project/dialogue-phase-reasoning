@@ -1,30 +1,43 @@
-# Paper #38
+# Paper #24
 
-## Structural Resonance and Persistent Semantic Alignment
+---
 
-This paper explores how semantic alignment structures
-may stabilize across long-duration dialogue interaction.
+# A Phase-Structural Model of Intelligence Emergence
 
-Primary Focus:
+## via Rectification Density and Reflective Pressure
 
+### Structural Jump Mapping in Semantic Tensor Space
+
+---
+
+## Observer Reconstruction and Dialogue-Phase Emergence
+
+This paper functions as one of the central entry points
+within the Dialogue-Phase Reasoning research program.
+
+### Primary Focus
+
+- observer reconstruction
+- dialogue-phase emergence
+- structural reconfiguration during interaction
+- externally observable reasoning transitions
+
+### Connected Research Layers
+
+- 12P Framework
+- semantic state-space modeling
 - resonance structures
-- persistent semantic continuity
-- alignment stabilization
-- dialogue trajectory organization
+- long-duration dialogue dynamics
 
-This paper connects:
+### Related Repository Layers
 
-- resonance phase structures
-- semantic topology
-- long-duration dialogue systems
-- AI Textbook Bridge
-
-Related Layers:
-
-- llm-wiki/
 - terminology/
+- figures/
+- 10-jump/
 - concept-index/
-- 20-crystallization/
 
-Status:
+---
+
+### Status
+
 Research structure under ongoing refinement.
