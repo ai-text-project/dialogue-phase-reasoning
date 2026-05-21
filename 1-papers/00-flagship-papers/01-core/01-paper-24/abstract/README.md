@@ -2,14 +2,12 @@
 
 ## Title
 
-A Phase-Structural Model of Intelligence Emergence via Rectification Density and Reflective Pressure:
+##　A Phase-Structural Model of Intelligence Emergence via Rectification Density and Reflective Pressure:
 A Structural Jump Mapping in Semantic Tensor Space
 
 ---
 
 ## Abstract
-
-Abstract
 
 This paper proposes a theoretical model of structural transitions in dialogue-based reasoning. It treats abrupt changes in reasoning behavior not as simple increases in output or performance, but as phase-structural reconfiguration within Semantic Tensor Space. The model is organized around four core components: Rectification Density (R), Reflective Pressure (P), the threshold condition R⋅P≥θ, and the structural transition mapping T→T
 ′
