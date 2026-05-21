@@ -2,7 +2,7 @@
 
 ## Title
 
-#　A Phase-Structural Model of Intelligence Emergence via Rectification Density and Reflective Pressure:
+# A Phase-Structural Model of Intelligence Emergence via Rectification Density and Reflective Pressure:
 ## A Structural Jump Mapping in Semantic Tensor Space
 
 ---
