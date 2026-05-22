@@ -81,7 +81,7 @@ dialogue-phase-reasoning/
 ├── terminology/           # Semantic organization system
 │
 └── README.md
-
+```
 
 
 # Planned Core Figures
