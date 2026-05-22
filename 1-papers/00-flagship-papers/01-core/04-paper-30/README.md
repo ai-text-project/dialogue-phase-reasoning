@@ -1,43 +1,80 @@
-# Paper #24
+# Paper #30
+
+## Title
+
+**Dialogue Structure as a Cognitive Variable:**  
+*Defining Resonant Intelligence in Phase 6.3*
 
 ---
 
-# A Phase-Structural Model of Intelligence Emergence
+## Overview
 
-## via Rectification Density and Reflective Pressure
+This paper examines the possibility that dialogue
+may function not merely as a medium of information exchange,
+but as a dynamic structural field
+within which cognition itself operates as a variable.
 
-### Structural Jump Mapping in Semantic Tensor Space
+The paper focuses on:
+- rectification density
+- reflective pressure
+- structural phase transition
+- resonant intelligence
 
----
+and proposes a conceptual framework
+for describing how cognitive structures
+may undergo both continuous rectification
+and discontinuous reconfiguration
+within long-horizon dialogue environments.
 
-## Observer Reconstruction and Dialogue-Phase Emergence
+The proposed model emphasizes
+externally observable structural reconfiguration patterns
+and remains compatible with observational approaches.
 
-This paper functions as one of the central entry points
-within the Dialogue-Phase Reasoning research program.
-
-### Primary Focus
-
-- observer reconstruction
-- dialogue-phase emergence
-- structural reconfiguration during interaction
-- externally observable reasoning transitions
-
-### Connected Research Layers
-
-- 12P Framework
-- semantic state-space modeling
-- resonance structures
-- long-duration dialogue dynamics
-
-### Related Repository Layers
-
-- terminology/
-- figures/
-- 10-jump/
-- concept-index/
+Rather than positioning dialogue as passive transmission,
+the paper explores dialogue itself
+as a condition contributing to cognitive transformation,
+particularly within human–AI interaction contexts.
 
 ---
 
-### Status
+## Repository Structure
 
-Research structure under ongoing refinement.
+```text
+04-paper-30/
+
+├── abstract/
+├── figures/
+├── manuscript/
+├── notes/
+├── terminology/
+└── README.md
+```
+
+---
+
+## Semantic Role
+
+This paper belongs to the:
+
+- Core Paper Layer
+- Dialogue-Phase Reasoning research space
+
+Related semantic layers include:
+- jump
+- crystallization
+- governance
+- terminology
+- research-map
+- externalization
+
+---
+
+## Notes
+
+The labels such as “Phase 6.3”
+refer to analytical phase descriptions
+within the present theoretical framework.
+
+The paper proposes a conceptual and observational model,
+rather than a finalized empirical taxonomy.
+```
