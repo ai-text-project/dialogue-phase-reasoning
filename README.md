@@ -61,19 +61,26 @@ This direction is related to ongoing explorations inspired by dialogue-centered 
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
 dialogue-phase-reasoning/
 
-├── figures/
-├── 12p-framework/
-├── 60p-foundation/
-├── llm-wiki/
-└── links/
-```
-
----
+├── 1-papers/              # Core research papers
+│   ├── 12p-framework/
+│   ├── 60p-foundation/
+│   └── llm-wiki/
+│
+├── 10-jump/               # Structural transition observations
+├── 20-crystallization/    # Stabilization and crystallization cases
+├── 30-externalization/    # Projection toward external systems
+├── 40-research-map/       # Research-space topology and mapping
+│
+├── figures/               # Visual architecture layer
+├── governance/            # Operational stabilization policies
+├── terminology/           # Semantic organization system
+│
+└── README.md
 
 # Planned Core Figures
 
