@@ -1,3 +1,3 @@
 # Abstract
 
-Placeholder for abstract materials related to Paper #24.
+Placeholder for abstract materials related to Paper #32.
