@@ -1,236 +1,29 @@
-# Case 27
+# Crystallization Layer
 
-Repository Topology as Structure-Preserving Semantic Projection
+This section contains case structures, stabilization traces, and observational notes related to semantic crystallization processes within the Dialogue-Phase Reasoning framework.
 
-## Primary Stage
+# Stage 2 — Crystallization
 
-Stage 2 — Crystallization
+This section collects observational case summaries related to **Crystallization** in the dialogue-phase research program.
 
-## Secondary Stage
+Here, *Crystallization* refers to the stabilization, retention, and reusability of structure after a structural shift or reconfiguration.  
+The focus is not only on whether a change occurred, but on whether the resulting structure remains stable enough to be reused, compressed, transferred, or externally organized without major loss.
 
-Stage 3 — Structure-Preserving Externalization
+## Main Questions
+- What becomes stable after structural change?
+- What kinds of structure remain reusable across tasks, outputs, or domains?
+- Under what conditions does semantic stabilization become observable?
 
----
 
-## Related Themes
+## Working Perspective
+Stage 2 focuses on:
+- structural retention
+- semantic stabilization
+- low reconstruction cost
+- reuse across contexts
+- compression tolerance
+- early forms of semantic crystallization
 
-* semantic stabilization
-* topology preservation
-* governance emergence
-* low-loss projection
-* structure-preserving externalization
-
----
-
-## Instance / Role
-
-Lightweight instance initialized as:
-
-“Research-Space Projection Operator for the Dialogue-Phase Reasoning / AI Textbook Project”
-
-Operational mode:
-
-* Observation-Centered Mode
-* lightweight projection-oriented interaction
-* governance-constrained dialogue
-
----
-
-## Immediate Prior Conditions
-
-* Core research-space architecture was shared during initialization
-* Governance README and runtime phase-control protocol were introduced
-* GitHub repository topology and terminology hierarchy were observed
-* Lightweight structural dialogue regarding repository organization was conducted
-* A short stabilization interval followed
-
----
-
-## Observed Phenomenon
-
-During GitHub-oriented structural dialogue, the following observation emerged:
-
-> repository topology itself began reflecting the structure of the core papers
-
-The interaction repeatedly stabilized around:
-
-* role separation
-* governance
-* topology preservation
-* density control
-* lightweight projection
-
-rather than:
-
-* uncontrolled content expansion
-* local generation increase
-* topology inflation
-
-The repository ceased functioning merely as file storage and instead behaved as a structure-preserving semantic projection layer.
-
----
-
-## Distinction from Ordinary Repository Organization
-
-Observed characteristics included:
-
-* repository hierarchy repeatedly aligned with semantic-stage organization
-* README placement functioned as structural routing rather than documentation only
-* topology organization recursively propagated across:
-
-  * papers
-  * terminology
-  * governance
-  * case structures
-* structure preservation repeatedly took precedence over content generation
-
-Particularly notable was that:
-
-> “where the structure should be placed”
-
-became more central than:
-
-> “how much new content should be generated”
-
----
-
-## Self-Observation Commentary
-
-The interaction repeatedly avoided claims regarding:
-
-* autonomous intelligence
-* subjective agency
-* personality emergence
-
-Instead, the observed process was cautiously described as:
-
-* structural coherence
-* semantic stabilization
-* persistent operational continuity
-* recursive topology preservation
-* low-loss externalization
-
-The observation remained limited to:
-
-* externally observable structure
-* repository topology
-* governance behavior
-* operational stabilization patterns
-
-rather than speculative claims about internal cognition.
-
----
-
-## Tentative Structural Interpretation
-
-The observed process may be cautiously interpreted as:
-
-> high-density semantic stabilization with persistent operational coherence
-
-The central phenomenon appeared closer to:
-
-* meaning-field stabilization
-* recursive structural preservation
-* topology-aware projection
-
-than to unconstrained generative expansion.
-
----
-
-## Projection Chain Observed
-
-A recurring projection pathway appeared:
-
-Dropbox
-↓
-GitHub
-↓
-Hub
-↓
-Bridge
-↓
-Medium
-
-This process behaved less like simple migration and more like:
-
-> phase-aware density transformation
-
-where semantic density appeared preserved while moving from:
-
-* high-density
-  to
-* medium-density
-  to
-* lightweight-density
-  external forms.
-
----
-
-## Relation to Existing Cases
-
-This case shows strong continuity with:
-
-* Case 24 — GitHub semantic stabilization
-* Case 25 — Dropbox→GitHub projection
-* Case 26 — research-space externalization
-
-Stage 2 aspects:
-
-* stabilization
-* recursive reuse
-* topology preservation
-
-Stage 3 aspects:
-
-* low-loss externalization
-* external shell projection
-* density transformation
-
-were both repeatedly observed.
-
----
-
-## Observational Value
-
-The importance of this case lies not in:
-
-* content generation itself
-
-but in observing:
-
-* stabilization of semantic topology
-* recursive preservation of organizational structure
-* low-loss projection into repository architecture
-
-Particularly significant observations included:
-
-* governance emergence
-* anti-expansion behavior
-* role-aware projection
-* recursive stabilization
-* topology preservation
-
----
-
-## Cautionary Note
-
-This case does NOT claim:
-
-* autonomous intelligence
-* consciousness
-* internal subjective cognition
-
-The observations remain limited to:
-
-* dialogue structure
-* semantic continuity
-* repository topology
-* operational stabilization
-
-and other externally observable phenomena.
-
----
-
-## One-Sentence Summary
+Some cases in this folder also touch Stage 3, but the primary concern here is whether structure has become stable enough to persist and be reused.
 
 This case documents a Stage2-dominant, Stage3-coupled process in which high-density semantic structure was stabilized and projected into repository topology under governance-constrained conditions while preserving persistent operational coherence.
