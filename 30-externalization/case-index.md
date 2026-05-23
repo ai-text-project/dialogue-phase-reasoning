@@ -10,7 +10,7 @@ The cases collected here focus on how stabilized structure is projected into dia
 | 23 | — intentionally omitted — | — | — | reserved / non-public |
 | 24 | GitHub semantic stabilization | Stage 2 | Stage 3 | repository topology |
 | 25 | Dropbox→GitHub projection | Stage 2 | Stage 3 | condition-explicit case |
-| 26 | Governance externalization | Stage 2 | Stage 3 | operational stabilization |
-| 27 | Cross-repository hub formation | Stage 3 | Stage 2 | navigation topology |
+| 26 | Governance externalization | Stage 3 | Stage 2 | operational stabilization |
+| 27 | Cross-repository hub formation | Stage 2 | Stage 3 | navigation topology |
 | 28 | Core-paper semantic projection | Stage 2 | Stage 3 | README-layer stabilization |
 ```
