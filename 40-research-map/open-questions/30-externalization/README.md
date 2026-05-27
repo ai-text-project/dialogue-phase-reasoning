@@ -1,28 +1,58 @@
 # Externalization Layer
 
-This section contains case structures and observational materials related to semantic externalization and projection processes.
+This section contains observational materials related to
+semantic externalization and projection processes
+within the Dialogue-Phase Reasoning research program.
 
-# Stage 3 — Structure-Preserving Externalization
+The focus is not on finalized definitions,
+but on preserving observable conditions related to:
 
-This section collects observational case summaries related to **Structure-Preserving Externalization** in the dialogue-phase research program.
+- projection
+- low-loss externalization
+- density transformation
+- public structural organization
+- external shell formation
 
-Here, *Structure-Preserving Externalization* refers to the projection of a stabilized internal structure into outward forms such as diagrams, Medium articles, mini papers, repository structures, or other public-facing representations, while minimizing structural loss.
+---
 
-The central concern is not only output quality, but whether the same underlying structure can be rendered into different external forms without distortion of its core relations.
+## Stage 3 — Structure-Preserving Externalization
+
+This layer explores how stabilized semantic structures
+may be projected into external forms while minimizing structural distortion.
+
+Observed projection targets include:
+
+- diagrams
+- Medium articles
+- mini papers
+- repository structures
+- public-facing semantic organization systems
+
+---
 
 ## Main Questions
-- How can stabilized structure be projected outward with high fidelity?
-- What design conditions support low-loss externalization?
-- How do different external forms preserve the same underlying structure?
 
+- How can stabilized structure be projected outward with low loss?
+- What conditions support structure-preserving externalization?
+- How do different external forms preserve semantic relations?
 
-## Working Perspective
-Stage 3 focuses on:
-- low-loss projection
-- phase transformation
-- visual externalization
-- textual externalization
-- role-based stabilization
-- structure-preserving compression
+---
 
-Some cases in this folder depend on Stage 2 conditions, but the primary concern here is how stabilized structure becomes externally readable, usable, and reproducible across different forms.
+## Repository Structure
+
+```text
+30-externalization/
+
+├── 00-externalization-observation-criteria.md
+├── 26-case26.md
+└── README.md
+```
+
+---
+
+## Notes
+
+The term “externalization”
+is treated here as an observational research category,
+not as a finalized theoretical classification.
+```
