@@ -19,6 +19,28 @@ The purpose of this layer is to help readers understand:
 
 ---
 
+# Paper Map Layer
+
+This section organizes the relational structure of the paper system within the Dialogue-Phase Reasoning research space.
+
+Rather than functioning as a storage layer, this map layer provides:
+
+- conceptual orientation
+- paper-to-paper relationships
+- research-axis navigation
+- progression pathways across the repository
+
+---
+
+## Included Maps
+
+- [Core Paper Relations](./core-paper-relations.md)
+- [Progression Paths](./progression-paths.md)
+- [Research Axis Map](./research-axis-map.md)
+- [Topology Overview](./topology-overview.md)
+
+---
+
 ## Included Maps
 
 ### core-paper-relations.md
