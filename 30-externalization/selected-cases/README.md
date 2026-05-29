@@ -15,6 +15,17 @@ The central concern is not only output quality, but whether the same underlying 
 - What design conditions support low-loss externalization?
 - How do different external forms preserve the same underlying structure?
 
+## Working Perspective
+Stage 3 focuses on:
+- low-loss projection
+- phase transformation
+- visual externalization
+- textual externalization
+- role-based stabilization
+- structure-preserving compression
+
+Some cases in this folder depend on Stage 2 conditions, but the primary concern here is how stabilized structure becomes externally readable, usable, and reproducible across different forms.
+
 ---
 
 ## Key Cases
@@ -58,13 +69,3 @@ Observation related to long-form semantic mediation and sustained structural coh
 
 ---
 
-## Working Perspective
-Stage 3 focuses on:
-- low-loss projection
-- phase transformation
-- visual externalization
-- textual externalization
-- role-based stabilization
-- structure-preserving compression
-
-Some cases in this folder depend on Stage 2 conditions, but the primary concern here is how stabilized structure becomes externally readable, usable, and reproducible across different forms.
