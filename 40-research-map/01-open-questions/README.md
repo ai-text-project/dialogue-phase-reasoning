@@ -19,8 +19,8 @@ but as active research targets within the evolving framework.
 
 ## Navigation Targets
 
-- [Topology Evolution](./0-emergence-index/01-topology-evolution.md)
-- [Scope Expansion](./0-emergence-index/02-scope-expansion.md)
+- [00-crystallization-observation-criteria.md](./00-crystallization-observation-criteria.md)
+- [01-externalization-observation-criteria.md](./01-externalization-observation-criteria.md)
 
 ---
 
