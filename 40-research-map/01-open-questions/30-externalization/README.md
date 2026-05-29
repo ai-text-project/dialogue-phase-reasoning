@@ -28,6 +28,24 @@ Observed projection targets include:
 - repository structures
 - public-facing semantic organization systems
 
+--
+
+## Key Documents
+
+### Observation Framework
+
+- [Externalization Observation Criteria](00-externalization-observation-criteria.md)
+
+Core observational criteria used to identify and compare
+externalization-related phenomena.
+
+### Selected Cases
+
+- [Case 26 — Case Sorting Dialogue as Externalization Function](26-case26.md)
+
+Observation of how case-classification dialogue itself may function
+as a structure-preserving externalization mechanism within a research space.
+
 ---
 
 ## Main Questions
