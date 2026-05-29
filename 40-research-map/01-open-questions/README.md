@@ -17,7 +17,7 @@ but as active research targets within the evolving framework.
 
 ---
 
-## Navigation Targets
+## Navigation observation criteria
 
 - [00-crystallization-observation-criteria.md](./00-crystallization-observation-criteria.md)
 - [01-externalization-observation-criteria.md](./01-externalization-observation-criteria.md)
