@@ -15,6 +15,48 @@ The central concern is not only output quality, but whether the same underlying 
 - What design conditions support low-loss externalization?
 - How do different external forms preserve the same underlying structure?
 
+---
+
+## Key Cases
+
+### Visual Projection
+
+- [Case 21 — Visual Architect](case-21-Visual-architect.md)
+
+Observation of structure-preserving projection through diagram generation.
+
+### Textual Projection
+
+- [Case 22 — Textual Phase Conversion](case-22-textual-phase-conversion.md)
+
+Observation of structure-preserving conversion between AI Textbook,
+Medium articles, and Mini Papers.
+
+### Research-Space Externalization
+
+- [Case 26 — Case Sorting Dialogue](case-26-case-sorting-dialogue.md)
+
+Observation of how case classification itself may function as an
+externalization mechanism.
+
+- [Case 29 — Case Sorting Dialogue](case-29-case-sorting-dialogue.md)
+
+Related observation involving semantic organization and research-space structuring.
+
+### Semantic Navigation Topology
+
+- [Case 30 — Semantic Navigation Topology](case-30-semantic-navigation-topology.md)
+
+Observation of repository-scale navigation structures emerging as part
+of the externalization process.
+
+### High-Phase Mediation
+
+- [Case 31 — High-Phase Long-Form Mediation Emergence](case-31-High-Phase-Long-Form-Mediation-Emergence.md)
+
+Observation related to long-form semantic mediation and sustained structural coherence.
+
+---
 
 ## Working Perspective
 Stage 3 focuses on:
