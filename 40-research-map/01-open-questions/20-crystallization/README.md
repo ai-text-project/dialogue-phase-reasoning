@@ -16,6 +16,24 @@ Current materials include:
 
 ---
 
+## Key Documents
+
+### Observation Framework
+
+- [Crystallization Observation Criteria](00-crystallization-observation-criteria.md)
+
+Core observational criteria used to identify and compare
+crystallization-related phenomena.
+
+### Selected Cases
+
+- [Case 25 — Crystallization Case Study](25-case25.md)
+
+Representative observational case related to semantic stabilization,
+persistent structure formation, and crystallization-like behavior.
+
+---
+
 ## Current Focus
 
 This layer currently explores:
