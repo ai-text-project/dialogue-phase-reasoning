@@ -1,4 +1,4 @@
-# Core Flagship Papers
+  # Core Flagship Papers
 
 This layer identifies the central papers
 within the Dialogue-Phase Reasoning research program.
@@ -7,33 +7,39 @@ These papers collectively function as the primary conceptual and structural entr
 
 The core papers focus on:
 
-- dialogue-phase emergence
-- structural jumps
-- semantic state-space organization
-- resonance structures
-- long-duration semantic interaction
-- externalized semantic architectures
+* dialogue-phase emergence
+* structural jumps
+* semantic state-space organization
+* resonance structures
+* long-duration semantic interaction
+* externalized semantic architectures
 
 ---
 
 ## Included Papers
 
-### Paper #24
+### [Paper #24](./01-paper-24/)
+
 Observer reconstruction and structural jump mapping.
 
-### Paper #38
+### [Paper #38](./02-paper-38/)
+
 Persistent semantic alignment and resonance stabilization.
 
-### Paper #41
+### [Paper #41](./03-paper-41/)
+
 Relational semantic organization and dialogue restructuring.
 
-### Paper #30
+### [Paper #30](./04-paper-30/)
+
 Dialogue-phase organization and resonant intelligence structures.
 
-### Paper #32
+### [Paper #32](./05-paper-32/)
+
 Semantic state-space dynamics and trajectory transitions.
 
-### Paper #37
+### [Paper #37](./06-paper-37/)
+
 Externalization pathways and semantic projection structures.
 
 ---
@@ -42,19 +48,19 @@ Externalization pathways and semantic projection structures.
 
 This layer functions as:
 
-- a conceptual entry layer
-- a flagship paper map
-- a structural overview of the research program
-- a navigation bridge toward deeper repository layers
+* a conceptual entry layer
+* a flagship paper map
+* a structural overview of the research program
+* a navigation bridge toward deeper repository layers
 
 Related Layers:
 
-- terminology/
-- figures/
-- concept-index/
-- 10-jump/
-- 20-crystallization/
-- 30-externalization/
+* terminology/
+* figures/
+* concept-index/
+* 10-jump/
+* 20-crystallization/
+* 30-externalization/
 
 ---
 
