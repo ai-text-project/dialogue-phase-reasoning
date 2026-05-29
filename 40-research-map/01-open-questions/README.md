@@ -17,6 +17,13 @@ but as active research targets within the evolving framework.
 
 ---
 
+## Navigation Targets
+
+- [Topology Evolution](./0-emergence-index/01-topology-evolution.md)
+- [Scope Expansion](./0-emergence-index/02-scope-expansion.md)
+
+---
+
 ## Structure
 
 ### 0-Emergence Index
