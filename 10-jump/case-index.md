@@ -13,10 +13,14 @@ Stage 1 has already been partially formalized through the 12P Framework and rela
 
 Future jump-related case materials may be added if earlier dialogue logs are reorganized as observational cases.
 
-Related layers:
+## Related Layers
 
-- 1-papers/10-jump/
-- 1-papers/00-flagship-papers/
-- figures/
-- terminology/
+### Core Research Materials
 
+- [Jump Papers](../1-papers/10-jump/)
+- [Flagship Papers](../1-papers/00-flagship-papers/)
+
+### Supporting Materials
+
+- [Figures](../figures/)
+- [Terminology](../terminology/)
