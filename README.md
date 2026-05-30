@@ -62,6 +62,7 @@ This direction is related to ongoing explorations inspired by dialogue-centered 
 ---
 ## Repository Structure
 
+```text
 dialogue-phase-reasoning/
 
 ├── 1-papers/
@@ -81,7 +82,7 @@ dialogue-phase-reasoning/
 ├── terminology/
 │
 └── README.md
-
+```
 
 # Planned Core Figures
 
