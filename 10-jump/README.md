@@ -32,3 +32,15 @@ Stage 1 focuses on:
 - early formalization of jump dynamics
 
 This folder serves as the main entry point for the theoretical side of the research program.
+
+
+---
+
+## Related Documents
+
+### Jump Index
+
+A navigation layer organizing public materials and entry points related to Stage 1 observations.
+
+→ [Open Jump Index](case-index.md)
+
