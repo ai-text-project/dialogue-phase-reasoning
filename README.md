@@ -60,28 +60,27 @@ Topics include:
 This direction is related to ongoing explorations inspired by dialogue-centered semantic architectures and LLM-Wiki-like semantic organization systems.
 
 ---
-
 ## Repository Structure
 
-```text
 dialogue-phase-reasoning/
 
-├── 1-papers/              # Core research papers
-│   ├── 12p-framework/
-│   ├── 60p-foundation/
-│   └── llm-wiki/
+├── 1-papers/
+│   ├── 00-flagship-papers/
+│   │   ├── 01-core/
+│   │   └── ...
+│   │
+│   └── 05-extended/
 │
-├── 10-jump/               # Structural transition observations
-├── 20-crystallization/    # Stabilization and crystallization cases
-├── 30-externalization/    # Projection toward external systems
-├── 40-research-map/       # Research-space topology and mapping
+├── 10-jump/
+├── 20-crystallization/
+├── 30-externalization/
+├── 40-research-map/
 │
-├── figures/               # Visual architecture layer
-├── governance/            # Operational stabilization policies
-├── terminology/           # Semantic organization system
+├── figures/
+├── governance/
+├── terminology/
 │
 └── README.md
-```
 
 
 # Planned Core Figures
@@ -96,6 +95,26 @@ The repository will gradually include:
 * research-program structure maps
 
 ---
+## Repository Structure
+
+### Research Papers
+- 1-papers/
+
+### Stage Layers
+- 10-jump/
+- 20-crystallization/
+- 30-externalization/
+
+### Research-Space Layer
+- 40-research-map/
+
+### Supporting Layers
+- figures/
+- governance/
+- terminology/
+
+---
+
 
 # Current Status
 
