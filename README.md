@@ -99,20 +99,24 @@ The repository will gradually include:
 ## Repository Structure
 
 ### Research Papers
-- 1-papers/
+
+- [1-papers](./1-papers)
 
 ### Stage Layers
-- 10-jump/
-- 20-crystallization/
-- 30-externalization/
+
+- [10-jump](./10-jump)
+- [20-crystallization](./20-crystallization)
+- [30-externalization](./30-externalization)
 
 ### Research-Space Layer
-- 40-research-map/
+
+- [40-research-map](./40-research-map)
 
 ### Supporting Layers
-- figures/
-- governance/
-- terminology/
+
+- [figures](./figures)
+- [governance](./governance)
+- [terminology](./terminology)
 
 ---
 
