@@ -33,14 +33,18 @@ Stage 1 focuses on:
 
 This folder serves as the main entry point for the theoretical side of the research program.
 
-
 ---
 
-## Related Documents
+## Navigation
 
 ### Jump Index
 
-A navigation layer organizing public materials and entry points related to Stage 1 observations.
+Public navigation layer for Stage 1 materials.
+
+- theoretical entry points
+- related papers
+- observational references
+- future jump-related case materials
 
 → [Open Jump Index](case-index.md)
 
