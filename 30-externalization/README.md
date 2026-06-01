@@ -28,7 +28,7 @@ The following cases provide representative observations of Structure-Preserving 
 
 ### Visual and Textual Projection
 
-- [Case21 — Visual Architect](case-21-Visual-architect.md)
+- [Test Case21](./case-21-Visual-architect.md)
 - [Case22 — Textual Phase Conversion](case-22-textual-phase-conversion.md)
 
 ### Dialogue and Repository Structuring
