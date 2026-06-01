@@ -3,6 +3,14 @@
 This index lists selected public case summaries related to Stage 3: Structure-Preserving Externalization.  
 The cases collected here focus on how stabilized structure is projected into diagrams, articles, papers, repositories, or other external forms with minimal structural loss.
 
+## Scope
+
+This index currently covers selected public cases related to Structure-Preserving Externalization.
+
+Included cases:
+21, 22, 26, 28, 29, 30, 31, 32, 33, 34
+
+
 | Case ID | Short Title | Primary Stage | Secondary Stage | Public Note |
 |--------|-------------|---------------|-----------------|-------------|
 | 21 | Visual Architect reactivation | Stage 3 | Stage 2 | visual projection |
