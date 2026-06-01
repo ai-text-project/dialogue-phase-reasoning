@@ -21,6 +21,42 @@ The central concern is not only output quality, but whether the same underlying 
 - notes on design variables
 - early observations on phase transformation and projection fidelity
 
+
+## Selected Cases
+
+The following cases provide representative observations of Structure-Preserving Externalization across different external forms.
+
+### Visual and Textual Projection
+
+- [Case21 — Visual Architect](case-21-Visual-architect.md)
+- [Case22 — Textual Phase Conversion](case-22-textual-phase-conversion.md)
+
+### Dialogue and Repository Structuring
+
+- [Case26 — Case Sorting Dialogue](case-26-case-sorting-dialogue.md)
+- [Case28 — GitHub Semantic Architecture](case-28-github-semantic-architecture.md)
+- [Case29 — Case Sorting Dialogue](case-29-case-sorting-dialogue.md)
+
+### Navigation and Topology Externalization
+
+- [Case30 — Semantic Navigation Topology](case-30-semantic-navigation-topology.md)
+
+### High-Phase Externalization
+
+- [Case31 — High-Phase Long-Form Mediation Emergence](case-31-High-Phase Long-Form Mediation Emergence.md)
+
+### Public Observation and Comparative Structuring
+
+- [Case32 — Public Observation Note as Externalization](case-32- Public Observation Note as externalization.md)
+
+- [Case33 — Comparative Structuring of Crystallization and Externalization](case-33- Comparative Structuring of Crystallization and Externalization.md)
+
+### Projection Loop Dynamics
+
+- [Case34 — Convergent Projection Loop](case-34-convergent-projection-loop.md)
+
+
+
 ## What Is Not Included
 - full dialogue logs
 - full prompt development history
