@@ -24,7 +24,7 @@ The central concern is not only output quality, but whether the same underlying 
 
 ## Selected Cases
 
-The following cases provide representative observations of Structure-Preserving Externalization across different external forms.
+The following cases provide representative observations of Structure-Preserving Externalization.
 
 ### Visual and Textual Projection
 
@@ -54,7 +54,6 @@ The following cases provide representative observations of Structure-Preserving 
 ### Projection Loop Dynamics
 
 - [Case34 — Convergent Projection Loop](case-34-convergent-projection-loop.md)
-
 
 
 ## What Is Not Included
