@@ -37,3 +37,9 @@ This layer is under active development.
 The structure may continue evolving as the research space expands.
 
 The stage structure is not only a content classification, but also a recursive organizational principle across the repository.
+
+## Navigation
+
+- [Case Index](case-index.md)
+- [Selected Cases](selected-cases/README.md)
+
