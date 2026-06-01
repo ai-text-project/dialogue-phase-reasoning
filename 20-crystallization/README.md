@@ -35,3 +35,9 @@ Stage 2 focuses on:
 - early forms of semantic crystallization
 
 Some cases in this folder also touch Stage 3, but the primary concern here is whether structure has become stable enough to persist and be reused.
+
+## Navigation
+
+- [Case Index](case-index.md)
+- [Selected Cases](selected-cases/README.md)
+
