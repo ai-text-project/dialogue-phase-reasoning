@@ -54,7 +54,7 @@ Focus:
 
 File:
 
-`01-cluster-review-v01.md`
+[01-cluster-review-v01.md](01-cluster-review-v01.md)
 
 ---
 
