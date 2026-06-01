@@ -52,9 +52,9 @@ Focus:
 * Stabilization Cluster
 * Research Production Cluster
 
-File:
+Document:
 
-[01-cluster-review-v01.md](01-cluster-review-v01.md)
+→ [Open Cluster Review v0.1](01-cluster-review-v01.md)
 
 ---
 
