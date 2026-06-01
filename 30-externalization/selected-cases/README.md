@@ -28,44 +28,38 @@ Some cases in this folder depend on Stage 2 conditions, but the primary concern 
 
 ---
 
-## Key Cases
+## Selected Cases
 
-### Visual Projection
+The following cases provide representative observations of Structure-Preserving Externalization.
 
-- [Case 21 — Visual Architect](case-21-Visual-architect.md)
+### Visual and Textual Projection
 
-Observation of structure-preserving projection through diagram generation.
+- [Case21 — Visual Architect](case-21-Visual-architect.md)
+- [Case22 — Textual Phase Conversion](case-22-textual-phase-conversion.md)
 
-### Textual Projection
+### Dialogue and Repository Structuring
 
-- [Case 22 — Textual Phase Conversion](case-22-textual-phase-conversion.md)
+- [Case26 — Case Sorting Dialogue](case-26-case-sorting-dialogue.md)
+- [Case28 — GitHub Semantic Architecture](case-28-github-semantic-architecture.md)
+- [Case29 — Case Sorting Dialogue](case-29-case-sorting-dialogue.md)
 
-Observation of structure-preserving conversion between AI Textbook,
-Medium articles, and Mini Papers.
+### Navigation and Topology Externalization
 
-### Research-Space Externalization
+- [Case30 — Semantic Navigation Topology](case-30-semantic-navigation-topology.md)
 
-- [Case 26 — Case Sorting Dialogue](case-26-case-sorting-dialogue.md)
+### High-Phase Externalization
 
-Observation of how case classification itself may function as an
-externalization mechanism.
+- [Case31 — High-Phase Long-Form Mediation Emergence](case-31-High-Phase Long-Form Mediation Emergence.md)
 
-- [Case 29 — Case Sorting Dialogue](case-29-case-sorting-dialogue.md)
+### Public Observation and Comparative Structuring
 
-Related observation involving semantic organization and research-space structuring.
+- [Case32 — Public Observation Note as Externalization](case-32- Public Observation Note as externalization.md)
 
-### Semantic Navigation Topology
+- [Case33 — Comparative Structuring of Crystallization and Externalization](case-33- Comparative Structuring of Crystallization and Externalization.md)
 
-- [Case 30 — Semantic Navigation Topology](case-30-semantic-navigation-topology.md)
+### Projection Loop Dynamics
 
-Observation of repository-scale navigation structures emerging as part
-of the externalization process.
-
-### High-Phase Mediation
-
-- [Case 31 — High-Phase Long-Form Mediation Emergence](case-31-High-Phase-Long-Form-Mediation-Emergence.md)
-
-Observation related to long-form semantic mediation and sustained structural coherence.
+- [Case34 — Convergent Projection Loop](case-34-convergent-projection-loop.md)
 
 ---
 
