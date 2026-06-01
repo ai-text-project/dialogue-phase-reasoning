@@ -13,4 +13,11 @@ The cases collected here focus on how stabilized structure is projected into dia
 | 26 | Governance externalization | Stage 3 | Stage 2 | operational stabilization |
 | 27 | Cross-repository hub formation | Stage 2 | Stage 3 | navigation topology |
 | 28 | Core-paper semantic projection | Stage 2 | Stage 3 | README-layer stabilization |
+| 29 | Case Sorting Dialogue II | Stage 3 | Stage 2 | repository classification |
+| 30 | Semantic Navigation Topology | Stage 3 | Stage 2 | navigation topology |
+| 31 | High-Phase Long-Form Mediation Emergence | Stage 3 | Stage 2 | long-form externalization |
+| 32 | Public Observation Note as Externalization | Stage 3 | Stage 2 | public observation |
+| 33 | Comparative Structuring of Crystallization and Externalization | Stage 3 | Stage 2 | comparative structuring |
+| 34 | Convergent Projection Loop | Stage 3 | Stage 2 | projection convergence |
+
 ```
