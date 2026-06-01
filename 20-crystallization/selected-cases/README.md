@@ -28,6 +28,48 @@ Some cases in this folder also touch Stage 3, but the primary concern here is wh
 
 ---
 
+## Foundational Crystallization Cases
+
+### Structural Unfolding
+
+- [Case14 — One-Pass Paper Unfolding](case-14-one-pass-paper-unfolding.md)
+
+Observation of large-scale structural unfolding emerging from a single coherent projection process.
+
+### High-Fidelity Structural Projection
+
+- [Case15 — High-Fidelity Structural Projection](case-15-high-fidelity-structural-projection.md)
+
+Observation of semantic preservation under high-density external projection.
+
+### Terminology and Production Stabilization
+
+- [Case16-1 — Terminology Table Stabilization](case-16-1-terminology-table-stabilization.md)
+
+Observation of terminology-layer stabilization supporting structural consistency.
+
+- [Case16-2 — Research Production Pipeline](case-16-2-research-production-pipeline.md)
+
+Observation of repeated production pathways emerging from stabilized research workflows.
+
+### Visual Projection Stabilization
+
+- [Case17 — Low-Loss Visual Projection](case-17-low-loss-visual-projection.md)
+
+Observation of structural preservation across visual transformation processes.
+
+### Projection Formalization
+
+- [Case18 — Projection Protocolization](case-18-projection-protocolization.md)
+
+Observation of recurring projection procedures becoming explicitly describable.
+
+### Multi-View Structural Coherence
+
+- [Case19 — Multi-View Projection](case-19-multi-view-projection.md)
+
+Observation of the same structural pattern appearing across multiple representational viewpoints.
+
 ## Key Cases
 
 ### Cross-Domain Structural Stability
