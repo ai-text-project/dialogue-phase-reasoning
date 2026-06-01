@@ -36,3 +36,8 @@ Stage 3 focuses on:
 - structure-preserving compression
 
 Some cases in this folder depend on Stage 2 conditions, but the primary concern here is how stabilized structure becomes externally readable, usable, and reproducible across different forms.
+
+## Navigation
+
+- [Case Index](case-index.md)
+- [Selected Cases](selected-cases/README.md)
