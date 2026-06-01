@@ -49,7 +49,7 @@ The following cases provide representative observations of Structure-Preserving 
 
 ### High-Phase Externalization
 
-- [Case31 — High-Phase Long-Form Mediation Emergence](case-31-High-Phase Long-Form Mediation Emergence.md)
+- [Case31 — High-Phase Long-Form Mediation Emergence](case-31-High-Phase%20Long-Form%20Mediation%20Emergence.md)
 
 ### Public Observation and Comparative Structuring
 
