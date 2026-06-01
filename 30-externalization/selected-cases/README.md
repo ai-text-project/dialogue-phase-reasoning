@@ -53,9 +53,9 @@ The following cases provide representative observations of Structure-Preserving 
 
 ### Public Observation and Comparative Structuring
 
-- [Case32 — Public Observation Note as Externalization](case-32- Public Observation Note as externalization.md)
+- [Case32 — Public Observation Note as Externalization](case-32-%20Public%20Observation%20Note%20as%20externalization.md)
 
-- [Case33 — Comparative Structuring of Crystallization and Externalization](case-33- Comparative Structuring of Crystallization and Externalization.md)
+- [Case33 — Comparative Structuring of Crystallization and Externalization](case-33-%20Comparative%20Structuring%20of%20Crystallization%20and%20Externalization.md)
 
 ### Projection Loop Dynamics
 
