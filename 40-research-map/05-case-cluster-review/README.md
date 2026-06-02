@@ -56,6 +56,8 @@ Document:
 
 → [Open Cluster Review v0.1](01-cluster-review-v01.md)
 
+→ [Open Cluster Review v0.2](01-cluster-review-v02.md)
+
 ---
 
 ## Notes
