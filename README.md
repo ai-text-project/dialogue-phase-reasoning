@@ -114,9 +114,9 @@ The repository will gradually include:
 
 ### Supporting Layers
 
-- [figures](./figures)
-- [governance](./governance)
-- [terminology](./terminology)
+- [figures](./4-figures)
+- [governance](./2-governance)
+- [terminology](./3-terminology)
 
 ---
 

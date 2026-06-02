@@ -22,5 +22,5 @@ Future jump-related case materials may be added if earlier dialogue logs are reo
 
 ### Supporting Materials
 
-- [Figures](../figures/)
-- [Terminology](../terminology/)
+- [Figures](../4-figures/)
+- [Terminology](../3-terminology/)
