@@ -37,16 +37,15 @@ Why do newly introduced observations increasingly appear to have natural and rec
 
 Potentially related observations include:
 
-* [Research-Space Evolution](../../00-emergence-observations/01-research-space-evolution.md)
+* [Research-Space Evolution](https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/01-research-space-evolution.md)
 
-* [Research-Space Reconstruction](../../00-emergence-observations/02-research-space-reconstruction.md)
+* [Research-Space Reconstruction](https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/02-research-space-reconstruction.md)
 
 * [Meta Case 01](../../03-meta-cases/01-meta-case-01.md)
 
 * [Case Cluster Review](../05-case-cluster-review/README.md)
 
 * Repository Topology Stabilization
-
 
 ---
 
