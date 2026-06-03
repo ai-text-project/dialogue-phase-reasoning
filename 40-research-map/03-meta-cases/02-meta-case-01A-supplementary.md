@@ -136,3 +136,18 @@ Supplementary Memo
 Prepared for future retrospective analysis.
 
 This document should be interpreted as contextual support for Meta Case 01 and as a record of the architectural consequences that followed its emergence.
+
+
+---
+
+## Related Architecture Note
+
+This supplementary memo may be interpreted as a practical example of the transition described in:
+
+ai-text-project-hub
+/01-research-architecture/04-meta-observation.md
+
+The architectural note explains the general distinction between observation and meta observation.
+
+The present memo records one concrete instance in which that distinction emerged through Case recovery, Cluster Review, Open Questions, and Research Mapping activities.
+
