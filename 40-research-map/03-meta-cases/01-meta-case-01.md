@@ -152,3 +152,16 @@ Further Meta Cases will be required before broader interpretation becomes approp
 
 Comparative Case analysis evolved into a mechanism for research-space self-organization.
 
+
+---
+
+## Related Open Question
+
+The observations documented in this Meta Case raise a broader cross-stage research question concerning adaptive placement and research-space self-organization.
+
+See:
+
+- Adaptive Placement Question
+  (40-research-map / 02-open-questions / 35-cross-stage / 00-adaptive-placement-question.md)
+
+This question remains open.
