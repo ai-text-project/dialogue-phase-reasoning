@@ -165,7 +165,6 @@ The observations documented in this Meta Case raise a broader cross-stage resear
 
 See:
 
-- Adaptive Placement Question
-  (40-research-map / 02-open-questions / 35-cross-stage / 00-adaptive-placement-question.md)
+- [Adaptive Placement Question](../02-open-questions/35-cross-stage/00-adaptive-placement-question.md)
 
 This question remains open.
