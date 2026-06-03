@@ -6,6 +6,10 @@
 
 **Secondary:** Cross-Stage Research Mapping
 
+Related Open Question:
+Adaptive Placement Question
+
+
 ---
 
 ## Status
