@@ -37,3 +37,23 @@ This layer is under active development.
 The structure may continue evolving as the research space expands.
 
 The stage structure is not only a content classification, but also a recursive organizational principle across the repository.
+
+
+---
+
+## Future Development
+
+Recent observations suggest that some structures within the Research Map layer may gradually evolve beyond the documentation of research content itself.
+
+Examples include:
+
+- Meta Cases
+- Meta Observation
+- Research Architecture
+- Research-Space Evolution studies
+
+These structures increasingly focus not only on observed phenomena, but also on the organization, interpretation, and development of the research program itself.
+
+At present, these observations remain integrated within the Research Map layer.
+
+Whether a dedicated Research Program Description layer will eventually emerge remains an open question.
