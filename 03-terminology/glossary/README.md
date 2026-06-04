@@ -22,7 +22,7 @@ Fundamental terminology definitions used across the repository.
 ### Terminology System Paper
 Long-form manuscript describing the terminology architecture and semantic stabilization framework.
 
-→ [Open Terminology System Paper](./3-terminology-system-paper/)
+→ [Open Terminology System Paper](./03-terminology-system-paper/)
 
 ---
 

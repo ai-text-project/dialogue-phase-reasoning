@@ -116,7 +116,7 @@ The repository will gradually include:
 
 - [figures](./4-figures)
 - [governance](./2-governance)
-- [terminology](./3-terminology)
+- [terminology](./03-terminology)
 
 ---
 
