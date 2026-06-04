@@ -65,7 +65,7 @@ This direction is related to ongoing explorations inspired by dialogue-centered 
 ```text
 dialogue-phase-reasoning/
 
-├── 1-papers/
+├── 01-papers/
 │   ├── 00-flagship-papers/
 │   │   ├── 01-core/
 │   │   └── ...
@@ -100,7 +100,7 @@ The repository will gradually include:
 
 ### Research Papers
 
-- [1-papers](./1-papers)
+- [01-papers](./01-papers)
 
 ### Stage Layers
 

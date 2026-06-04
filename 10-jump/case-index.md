@@ -17,8 +17,8 @@ Future jump-related case materials may be added if earlier dialogue logs are reo
 
 ### Core Research Materials
 
-- [Jump Papers](../1-papers/10-jump/)
-- [Flagship Papers](../1-papers/00-flagship-papers/)
+- [Jump Papers](../01-papers/10-jump/)
+- [Flagship Papers](../01-papers/00-flagship-papers/)
 
 ### Supporting Materials
 
