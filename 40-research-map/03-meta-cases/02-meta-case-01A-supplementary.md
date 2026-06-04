@@ -144,8 +144,7 @@ This document should be interpreted as contextual support for Meta Case 01 and a
 
 This supplementary memo may be interpreted as a practical example of the transition described in:
 
-ai-text-project-hub
-/01-research-architecture/04-meta-observation.md
+- [Meta Observation](https://github.com/ai-text-project/ai-text-project-hub/blob/main/01-research-architecture/04-meta-observation.md)
 
 The architectural note explains the general distinction between observation and meta observation.
 
