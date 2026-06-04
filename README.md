@@ -145,7 +145,7 @@ This companion repository contains medium-density explanatory articles, conceptu
 
 Conceptual integration of observation layers, relational state representation, and generative transition mechanisms.
 
-![Figure 1](figures/Figure1-combined-rv1.png)
+![Figure 1](04-figures/Figure1-combined-rv1.png)
 
 ---
 
@@ -153,7 +153,7 @@ Conceptual integration of observation layers, relational state representation, a
 
 Operational framework for observing dialogue-phase transitions through measurable trajectory indicators.
 
-![Figure 2](figures/Figure2_combined-rv1.png)
+![Figure 2](04-figures/Figure2_combined-rv1.png)
 
 ---
 
@@ -161,7 +161,7 @@ Operational framework for observing dialogue-phase transitions through measurabl
 
 Overview of the broader research program, including core theory, foundational documents, research paper networks, and future extensions.
 
-![Figure 3](figures/Figure3_combined-rv1.png)
+![Figure 3](04-figures/Figure3_combined-rv1.png)
 
 
 
