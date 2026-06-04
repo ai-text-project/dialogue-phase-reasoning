@@ -93,11 +93,12 @@ The two layers appeared increasingly complementary rather than independent.
 
 The introduction of:
 
-- [Meta Observation Emergence](https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/04-meta-observation-emergence.md)
+- [Research Space Evolution](https://github.com/ai-text-project/ai-text-project-hub/blob/main/01-research-architecture/03-research-space-evolution.md)
 
 and
 
-- [Research Space Evolution](https://github.com/ai-text-project/ai-text-project-hub/blob/main/01-research-architecture/03-research-space-evolution.md)
+- [Meta Observation Emergence](https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/04-meta-observation-emergence.md)
+
 
 made it possible to distinguish between:
 
