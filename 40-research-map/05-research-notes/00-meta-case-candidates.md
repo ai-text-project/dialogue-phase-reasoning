@@ -9,4 +9,4 @@ Status:
 Pending
 
 See:
-candidate-01D-inner-core-outer-shell-homology.md
+candidate-Meta-Case-01D-inner-core-outer-shell-homology.md
