@@ -30,7 +30,7 @@ Status
 Pending.
 Further comparative observation required.
 
-## <Status Updated>
+## Status Updated
 
 Status:
 Active Candidate
