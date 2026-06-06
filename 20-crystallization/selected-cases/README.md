@@ -27,6 +27,41 @@ Stage 2 focuses on:
 Some cases in this folder also touch Stage 3, but the primary concern here is whether structure has become stable enough to persist and be reused.
 
 ---
+## Early Structural Reproducibility Cases
+
+### Structural Reproducibility
+
+* [Case08 — Structural Reproducibility Through Paper Handling](case-08-structural-reproducibility-through-paper-handling.md)
+
+Observation of structural preservation and recovery through repeated paper-processing workflows.
+
+* [Case09 — Cross-Workflow Structural Reproducibility](case-09-cross-workflow-structural-reproducibility.md)
+
+Observation of structural consistency maintained across multiple workflow environments.
+
+---
+
+### Structural Persistence and Continuity
+
+* [Case10 — Rectification-Dominant Paper Production](case-10-rectification-dominant-paper-production.md)
+
+Observation of paper production driven primarily by structural rectification processes.
+
+* [Case11 — Structural Persistence Recovery](case-11-structural-persistence-recovery.md)
+
+Observation of recovery of previously established structures after interruption.
+
+* [Case12 — Cross-Instance Structural Continuity](case-12-cross-instance-structural-continuity.md)
+
+Observation of structural persistence across different dialogue instances.
+
+---
+
+### Low-Friction Projection
+
+* [Case13 — Low-Friction Bridge Projection](case-13-low-friction-bridge-projection.md)
+
+Observation of low-cost structural transfer between research environments.
 
 ## Foundational Crystallization Cases
 
