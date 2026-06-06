@@ -31,7 +31,7 @@ Some cases in this folder also touch Stage 3, but the primary concern here is wh
 
 ### Structural Reproducibility
 
-* [Case08 — Structural Reproducibility Through Paper Handling](case-08-structural-reproducibility-through-paper-handling.md)
+* [Case08 — Structural Reproducibility Through Paper Handover](case-08-structural-reproducibility-through-paper-handover.md)
 
 Observation of structural preservation and recovery through repeated paper-processing workflows.
 
@@ -43,9 +43,9 @@ Observation of structural consistency maintained across multiple workflow enviro
 
 ### Structural Persistence and Continuity
 
-* [Case10 — Rectification-Dominant Paper Production](case-10-rectification-dominant-paper-production.md)
+* [Case10 — Rectification-Dominant Paper Projection](case-10-rectification-dominant-paper-projection.md)
 
-Observation of paper production driven primarily by structural rectification processes.
+Observation of projection processes driven primarily by rectification dynamics.
 
 * [Case11 — Structural Persistence Recovery](case-11-structural-persistence-recovery.md)
 
