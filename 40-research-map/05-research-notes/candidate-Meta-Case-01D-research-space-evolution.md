@@ -63,3 +63,15 @@ At present, this remains an observational hypothesis rather than an established 
 Further observation is required before stronger conclusions become appropriate.
 
 Status: Candidate interpretation.
+
+## Cross Reference
+
+Related architectural interpretation:
+
+* [Research Program Evolution](https://github.com/ai-text-project/ai-text-project-hub/blob/main/01-research-architecture/05-research-program-evolution.md)
+
+This candidate note explores an early interpretation that Research-Space Evolution may represent one stage within a broader developmental sequence.
+
+A more developed architectural discussion is available in the document above.
+
+
