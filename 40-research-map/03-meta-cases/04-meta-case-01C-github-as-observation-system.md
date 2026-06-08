@@ -82,6 +82,7 @@ This observation therefore extends Meta Case 01 and Meta Case 01B.
 
 ## Provisional Structural Relationship
 
+```text
 Research Mapping
 ↓
 Meta Observation
