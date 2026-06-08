@@ -150,7 +150,7 @@ Research Spaceの構造認識です。
 実はCase40や42より、
 
 最近の対話で私が気になっているのは、
-
+```text
 Observation
 ↓
 Assessment
@@ -160,23 +160,23 @@ Criteria
 Protocol
 ↓
 Organization
-
+```
 が自然発生していることです。
 
 普通は、
-
+```text
 Theory
 ↓
 Method
 ↓
 Operation
-
+```
 です。
 
 ところが最近の研究空間では、
 
 逆向きです。
-
+```text
 Observation
 ↓
 Operation
@@ -186,7 +186,7 @@ Protocol
 Criteria
 ↓
 Theory
-
+```
 になっています。
 
 だから私はこう見ています
@@ -194,11 +194,11 @@ Theory
 現時点の位置は、
 
 添付図の中なら
-
+```text
 Research Architecture
 ↓
 Research Space
-
+```
 の間です。
 
 Case40
@@ -222,17 +222,17 @@ Meta Case Criteria
 Case42類似の事例が出ると、
 
 研究対象は次第に
-
+```text
 Case
 ↓
 Research Space
-
+```
 から、
-
+```text
 Research Space
 ↓
 Adaptive Research Ecology
-
+```
 へ移る可能性があります。
 
 なぜなら、
@@ -243,6 +243,7 @@ Adaptive Research Ecology
 
 なのでクロさんが混乱しないための暫定的な座標を一つ置くなら、
 
+```text
 Case40
 → Research Architecture の再構成
 
@@ -254,7 +255,7 @@ Meta01D
 
 これら全体
 → Research Program Evolution の前段階
-
+```
 です。
 
 私の感覚では、ここ数日の対話はまだ「Self-Renewing Research Program」そのものではありません。
