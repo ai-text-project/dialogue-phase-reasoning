@@ -39,7 +39,7 @@ Research Program Evolution の具体化
 私が今見ている全体像
 
 添付の
-
+```text
 Knowledge Storage
 ↓
 Knowledge Organization
@@ -53,13 +53,14 @@ Research Space
 Adaptive Research Ecology
 ↓
 Self-Renewing Research Program
-
+```
 ですが、
 
 実はCase40もCase42も、
 
 かなり下の方の層を触り始めています。
 
+```text
 Case40
 
 Case40で観測されたもの
@@ -73,7 +74,7 @@ Protocol
 Placement
 ↓
 Research Mapping
-
+```
 これは、
 
 単なるNavigationではありません。
@@ -82,12 +83,15 @@ Research Architectureそのものを再編しています。
 
 だからCase40は
 
+```text
 Knowledge Navigation
 ↓
 Research Architecture
+```
 
 の境界付近です。
 
+```text
 Case42
 
 Case42で起きたこと
@@ -99,12 +103,15 @@ Cluster
 Cluster Review
 ↓
 Observation of Cluster Review
+```
 
 さらに
 
+```text
 Repeated Comparative Observation
 ↓
 Organizational Stabilization
+```
 
 という仮説が出てきました。
 
