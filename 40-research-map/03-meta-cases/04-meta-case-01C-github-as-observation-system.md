@@ -90,6 +90,7 @@ Meta Observation
 GitHub as Observation System
 ↓
 Research-Space Evolution Observation
+```text
 
 ---
 
