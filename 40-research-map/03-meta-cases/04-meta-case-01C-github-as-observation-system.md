@@ -82,7 +82,7 @@ This observation therefore extends Meta Case 01 and Meta Case 01B.
 
 ## Provisional Structural Relationship
 
-```text
+ ```text
 Research Mapping
 ↓
 Meta Observation
@@ -90,7 +90,7 @@ Meta Observation
 GitHub as Observation System
 ↓
 Research-Space Evolution Observation
-```text
+
 
 ---
 
