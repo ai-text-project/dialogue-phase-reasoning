@@ -12,14 +12,17 @@
 
 ただし重要なのは、
 
+```text
 Case40
 Case42
 Meta01D
 ↓
 Research Program Evolution
+```text
 
 という単純な直線ではなく、
 
+```text
 Case40
 Case42
 Meta01D
@@ -29,6 +32,7 @@ Research Mapping Layer の深化
 Research Architecture の再認識
 ↓
 Research Program Evolution の具体化
+```text
 
 という流れです。
 
