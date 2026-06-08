@@ -106,6 +106,14 @@ These questions remain under active observation.
 
 ---
 
+### Related Observation
+
+For a broader discussion of repository history and structural observation, see:
+
+- [GitHub as a Structural Observation System](https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/0-github-as-observation-system.md)
+
+---
+
 ## Status
 
 Provisional Meta Observation.
