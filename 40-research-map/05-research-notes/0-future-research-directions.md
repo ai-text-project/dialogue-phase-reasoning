@@ -22,6 +22,18 @@ through case observation, comparative observation, and research mapping.
 
 ---
 
+## Note
+
+These themes are not currently interpreted as
+new architectural levels.
+
+They are provisional research directions
+emerging from observations within
+Research-Space Evolution.
+
+---
+---
+
 ## Emerging Themes
 
 Recent observations suggest additional themes may become relevant:
