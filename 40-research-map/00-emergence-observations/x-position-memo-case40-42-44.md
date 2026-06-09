@@ -147,7 +147,7 @@ Generation of Research Mapping Candidates
 # Alternative Representation
 
 Research Mapping Layer
-
+```text
 ├─ Case40
 │  └─ Research Mapping Reconstruction
 │
@@ -156,7 +156,7 @@ Research Mapping Layer
 │
 └─ Case44
 └─ Candidate Formation through Cluster Review
-
+```
 ---
 
 # Current Assessment
