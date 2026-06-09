@@ -37,9 +37,11 @@ Several observations appeared difficult to explain using only:
 
 In particular:
 
-- Meta Case 01D (Structural Homology)
-- Meta Case 01D (Research-Space Evolution Revisited)
-- Case42
+- [Meta Case 01D (Structural Homology)](../../05-research-notes/candidate-Meta-Case-01D-inner-core-outer-shell-homology.md)
+
+- [Meta Case 01D (Research-Space Evolution Revisited)](../../05-research-notes/candidate-Meta-Case-01D-research-space-evolution.md)
+
+- [Case42](../../00-emergence-observations/case-42-cluster-review-as-organizational-observation.md)
 
 appeared to focus on relationships between structures rather than individual structures themselves.
 
