@@ -158,9 +158,11 @@ However:
 
 See:
 
-- Cluster Candidate T-01
-- Meta01D Candidate
-- Case42
+- [Cluster Candidate T-01](../02-open-questions/05-case-cluster-review/04-cluster-candidate%20-T-01.md)
+
+- [Meta01D Candidate](candidate-Meta-Case-01D-inner-core-outer-shell-homology.md)
+
+- [Case42](../00-emergence-observations/case-42-cluster-review-as-organizational-observation.md)
 
 ---
 
