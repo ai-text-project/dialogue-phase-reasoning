@@ -144,3 +144,21 @@ This document should be interpreted as a navigation structure
 supporting Concept Index exploration.
 
 It is not intended as a finalized theoretical claim.
+
+## Provisional Structural Note
+
+The Research-Space Architecture and the Concept Index
+describe different domains.
+
+However, ongoing observations suggest that
+certain organizational patterns may appear
+across both structures.
+
+The present repository does not assume identity
+between these frameworks.
+
+Instead, they are provisionally treated as
+potentially homologous topologies
+whose structural correspondences remain under investigation.
+
+
