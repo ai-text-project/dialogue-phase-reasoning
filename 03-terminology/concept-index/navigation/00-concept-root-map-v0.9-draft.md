@@ -158,7 +158,8 @@ The present repository does not assume identity
 between these frameworks.
 
 Instead, they are provisionally treated as
-potentially homologous topologies
+potentially homologous organizational topologies
 whose structural correspondences remain under investigation.
+
 
 
