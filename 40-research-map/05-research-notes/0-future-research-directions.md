@@ -32,7 +32,6 @@ emerging from observations within
 Research-Space Evolution.
 
 ---
----
 
 ## Emerging Themes
 
