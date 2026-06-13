@@ -1,4 +1,25 @@
-# Research Note
+## Historical Significance
+
+This note is preserved primarily as a historical precedent.
+
+The observation predates:
+
+* Research Mapping
+* Cluster Review
+* Open Question Mapping
+* Meta Case Evaluation
+
+as explicit methodological activities.
+
+However, when viewed retrospectively, the process appears to exhibit structural similarities to later Research Mapping observations.
+
+For this reason, the note is retained not as a formal Case record, but as an early historical example of structure formation potentially driven by an Open Question.
+
+The purpose of preservation is historical continuity rather than classification.
+
+---
+
+# Research Note - Historical Significance
 
 ## Title
 
