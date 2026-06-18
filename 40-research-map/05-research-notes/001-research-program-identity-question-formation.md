@@ -135,3 +135,9 @@ No conclusion assumed.
 
 Further observation recommended.
 
+
+## Future Relevance
+
+If future observations substantially alter the interpretation of the research program itself, this question may become relevant to the Research Program Evolution record.
+
+At present, the question remains exploratory and is therefore retained within the Research Mapping layer.
