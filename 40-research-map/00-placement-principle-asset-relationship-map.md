@@ -44,6 +44,27 @@ Dialogue Repository
 
 ---
 
+## Cross-Repository References
+
+### Principle Emergence Documents (Hub Repository)
+
+- [14 — Placement Principle Emergence](https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/00-research-program-evolution/14-placement-principle-emergence.md)
+
+- [15 — Placement Principle Emergence ASCII Representation](https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/00-research-program-evolution/15-Placement-Principle-Emergence-ASCII-Representation.md)
+
+- [16 — Placement Principle Working Orientation Diagram](https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/00-research-program-evolution/16-placement-principle-working-orientation-diagram.md)
+
+### Operational Application Documents (Dialogue Repository)
+
+- [00 — Observation Asset Placement Guide](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/00-observation-asset-placement-guide.md)
+
+- [00 — Observation Asset Placement Guide ASCII](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/00-Observation-Asset-Placement-Guide-ASCII-v0.1.md)
+
+- [00 — Observation Asset Placement Guide Working Operational Diagram](https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/00-Asset-Placement-Guide-Working-Op-Diagram.md)
+
+
+---
+
 ## Interpretation
 
 The first sequence documents how the Placement Principle emerged.
