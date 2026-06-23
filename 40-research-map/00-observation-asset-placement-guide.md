@@ -293,3 +293,10 @@ AI Text Project Hub
 
 0-emergence-notes/
 00-research-program-evolution/
+
+
+## Related observations:
+
+* Placement Principle Emergence
+* Observation Stream Differentiation
+
