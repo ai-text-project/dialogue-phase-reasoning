@@ -275,3 +275,21 @@ Working Guide
 
 Subject to revision as additional observations accumulate.
 
+
+## Related Placement Systems
+
+This guide focuses on placement within the Dialogue Repository.
+
+For observations concerning:
+
+* Research Program Evolution
+* Repository Evolution
+* Governance Evolution
+* Operational Evolution
+
+see:
+
+AI Text Project Hub
+
+0-emergence-notes/
+00-research-program-evolution/
