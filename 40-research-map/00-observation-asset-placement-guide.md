@@ -122,6 +122,20 @@ Placement
 * Metastability and Crystallization
 * Research Program Identity Question Formation
 * Asset-Layer Community Alignment Question
+* Formation History Reconstruction
+* Research Program Historical Mapping
+
+### Typical Characteristics
+
+These records often involve:
+
+* historical reconstruction
+* relationship clarification among existing assets
+* comparative interpretation
+* exploratory conceptual development
+* provisional mapping of research structures
+
+The primary activity is interpretation and clarification rather than observation of an ongoing emergence event.
 
 These records are not considered finalized theoretical claims.
 
@@ -147,6 +161,27 @@ These records are not considered finalized theoretical claims.
 * Recursive Crystallization Becoming an Observation Object
 * External Theory Comparison and Open Question Formation
 * Governance Interaction and Role Execution Drift
+
+### Typical Characteristics
+
+These records often involve:
+
+* uncertain classification
+* candidate structures
+* unresolved placement decisions
+* unusual observations
+* observations whose long-term significance remains unclear
+
+The primary activity is observation of an emerging phenomenon rather than clarification of already existing relationships.
+
+### Use When
+
+Place an observation here when:
+
+* classification remains uncertain
+* multiple destinations appear plausible
+* the primary observation object is still unclear
+* further observation is required before stabilization
 
 These records remain provisional until broader placement becomes clear.
 
