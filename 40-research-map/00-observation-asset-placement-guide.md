@@ -296,6 +296,23 @@ If the answer is:
 
 Placement should follow the **primary object of observation** rather than the surface topic.
 
+### Additional Distinction
+
+Research Notes and Emergence Observations may occasionally appear similar.
+
+A practical distinction is:
+
+Research Notes
+→ clarification of existing relationships, interpretations, or historical structures
+
+Emergence Observations
+→ observation of phenomena whose structure, significance, or placement remains uncertain
+
+When the primary activity is reconstruction, interpretation, or relationship mapping, Research Notes are generally preferred.
+
+When the primary activity is continued observation of an unresolved phenomenon, Emergence Observations are generally preferred.
+
+
 ---
 
 # One-Line Summary
