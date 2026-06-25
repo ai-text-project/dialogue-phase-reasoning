@@ -44,6 +44,31 @@ Different records may focus on:
 As a result, placement decisions increasingly depend on identifying the **primary object being observed**.
 
 ---
+## Scope of the Placement Principle
+
+Although this guide is presented for the Dialogue Repository, the underlying placement principle is more general.
+
+The central question:
+
+> What is being observed?
+
+may be applied at multiple organizational layers.
+
+For example:
+
+```text
+Repository Operation
+        ↓
+Research Mapping
+        ↓
+Research Program Evolution
+```
+
+The destination therefore depends not only on the immediate repository structure but also on the primary object of observation.
+
+The same observational principle may consequently guide placement within both the Dialogue Repository and the Hub Repository.
+
+---
 
 ## Placement Logic
 
