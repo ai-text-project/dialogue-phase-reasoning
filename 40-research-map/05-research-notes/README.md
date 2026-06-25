@@ -67,3 +67,21 @@ This section remains provisional.
 
 Folder organization may be revised as the Research Mapping layer continues to evolve.
 
+
+---
+
+## Historical Reconstruction Series
+
+Case61
+Historical Reconstruction
+
+↓
+
+Case62
+Paper Assembly
+
+↓
+
+Case63
+Cross-Layer Placement Principle
+
