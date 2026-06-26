@@ -91,3 +91,13 @@ Related repositories and sections:
 ## One-Line Summary
 
 Formation History reconstructs how independently accumulated research assets progressively converged into an integrated research space.
+
+---
+
+## Related Formation History
+
+This paper workspace is based on the historical reconstruction documented in the Hub Repository.
+
+→ **Formation History (Hub Repository)**
+
+https://github.com/ai-text-project/ai-text-project-hub/tree/main/0-emergence-notes/01-formation-history
