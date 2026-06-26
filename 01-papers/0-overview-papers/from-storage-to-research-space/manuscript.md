@@ -97,3 +97,13 @@ This overview paper reconstructs the developmental architecture of the research 
 Additional notes, observations, and supporting materials are available in:
 
 - supplementary.md
+
+---
+
+## Historical Context
+
+This manuscript is based on the historical reconstruction documented in the AI Text Project Hub Repository.
+
+- **Formation History:** [From Storage to Research Space](https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/01-formation-history/00-from-storage-to-research-space.md)
+
+
