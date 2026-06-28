@@ -67,6 +67,16 @@ The guide reflects the current operational understanding that placement depends 
 
 The diagram therefore represents an application of the Placement Principle rather than the emergence process that originally produced it.
 
+As operational practice has matured, placement is understood as the beginning of repository integration rather than the final step of classification.
+
+After the primary placement decision has been made, subsequent operational activities may include:
+
+* Repository recording
+* Cross-reference maintenance
+* Repository-wide consistency review
+
+These activities preserve long-term organizational coherence while leaving the original placement decision unchanged.
+
 ---
 
 ## Related Repository Areas
