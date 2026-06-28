@@ -69,6 +69,25 @@ The destination therefore depends not only on the immediate repository structure
 The same observational principle may consequently guide placement within both the Dialogue Repository and the Hub Repository.
 
 ---
+## Dual Recording
+
+As the repository architecture has matured, a single observation may generate records at multiple organizational layers.
+
+In such cases, placement does not require choosing one repository instead of another.
+
+Instead, different records may document different aspects of the same observation.
+
+For example:
+
+* Dialogue Repository
+  → observation-oriented records
+
+* Hub Repository
+  → research-program evolution records
+
+These complementary records should be connected through Cross-reference rather than treated as competing placements.
+
+---
 
 ## Placement Logic
 
