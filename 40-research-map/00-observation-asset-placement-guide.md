@@ -355,6 +355,28 @@ If the answer is:
 
 Placement should follow the **primary object of observation** rather than the surface topic.
 
+---
+
+## Repository Consistency
+
+After the initial placement has been determined, repository-wide consistency should also be reviewed.
+
+Typical review items include:
+
+* Cross-reference consistency
+
+* complementary Hub records (when appropriate)
+
+* repository-wide organizational coherence
+
+These reviews do not alter the primary placement decision.
+
+Instead, they ensure long-term consistency across the Research Program information architecture.
+
+
+---
+
+
 ### Additional Distinction
 
 Research Notes and Emergence Observations may occasionally appear similar.
