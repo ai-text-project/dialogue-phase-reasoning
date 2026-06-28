@@ -68,7 +68,7 @@ The destination therefore depends not only on the immediate repository structure
 
 The same observational principle may consequently guide placement within both the Dialogue Repository and the Hub Repository.
 
----
+
 ## Dual Recording
 
 As the repository architecture has matured, a single observation may generate records at multiple organizational layers.
@@ -323,8 +323,6 @@ Evolution of the research program and its operational environment.
 ai-text-project-hub
 ```
 
----
-
 ## Complementary Record
 
 These two record types are complementary rather than mutually exclusive.
@@ -354,8 +352,6 @@ If the answer is:
 * program evolution → Hub Repository
 
 Placement should follow the **primary object of observation** rather than the surface topic.
-
----
 
 ## Repository Consistency
 
