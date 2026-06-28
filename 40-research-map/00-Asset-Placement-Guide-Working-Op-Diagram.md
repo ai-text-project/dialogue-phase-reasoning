@@ -93,6 +93,16 @@ Additional destinations may emerge as repository organization evolves.
 
 ---
 
+## Repository Integration
+
+The operational workflow represented by this diagram supports placement decisions across both the Dialogue Repository and the Hub Repository.
+
+When appropriate, complementary records may be maintained independently within different repository layers while remaining connected through Cross-reference.
+
+This operational integration extends the Placement Principle without modifying its original conceptual foundation.
+
+---
+
 ## Status
 
 Working Operational Diagram
