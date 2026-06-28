@@ -325,6 +325,21 @@ ai-text-project-hub
 
 ---
 
+## Complementary Record
+
+These two record types are complementary rather than mutually exclusive.
+
+A single observational event may generate both:
+
+* a Case documenting the observation itself, and
+
+* a Research Program Evolution record documenting its significance within the long-term development of the research program.
+
+Such paired records should remain independent while being connected through Cross-reference.
+
+
+---
+
 # Current Working Principle
 
 When evaluating a new record, first identify:
