@@ -98,3 +98,25 @@ Observation
 
 and preserves phenomena that may later contribute to future conceptual and theoretical development.
 
+
+---
+
+## Observation Object Categories
+
+Files in this directory are classified according to the primary object being observed.
+
+These categories follow the operational placement principle:
+
+> **What is being observed?**
+
+| Tag      | Observation Object      | Description                                                             |
+| -------- | ----------------------- | ----------------------------------------------------------------------- |
+| **[ST]** | Structure               | Structural organization and topology preservation                       |
+| **[FM]** | Formation Process       | Formation, emergence, or developmental processes                        |
+| **[OP]** | Observation Process     | Observation methodology and observational processes                     |
+| **[GV]** | Governance Observation  | Governance interactions, operational continuity, and execution dynamics |
+| **[MQ]** | Meta Question           | Higher-order methodological or meta-level observations                  |
+| **[CP]** | Comparative Observation | Comparative analysis across multiple observations or cases              |
+
+These tags support consistent identification of the primary observation object and complement the placement principles described in the Observation Asset Placement Guide.
+
