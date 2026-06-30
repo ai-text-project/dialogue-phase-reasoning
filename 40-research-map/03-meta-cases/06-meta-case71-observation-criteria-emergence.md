@@ -131,3 +131,14 @@ Meta Observation
 Provisional.
 
 Subject to refinement through future methodological observations.
+
+
+---
+## Related Documents
+
+* From Placement Principle to Protocol
+
+https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/00-research-program-evolution/18-%5BPP%5D-From-Placement-Principle-to-Protocol.md
+
+
+
