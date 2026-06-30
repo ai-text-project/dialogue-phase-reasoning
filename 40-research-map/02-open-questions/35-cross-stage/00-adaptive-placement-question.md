@@ -103,8 +103,17 @@ Adaptive Placement Question
 ### Related Meta Cases
 
 - Meta Case 01
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/01-meta-case-01.md
+
 - Meta Case 01A
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/02-meta-case-01A-supplementary.md
+
 - Meta Case 01B
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/03-meta-case-01B-architecture-loop.md
+
 
 ---
 
