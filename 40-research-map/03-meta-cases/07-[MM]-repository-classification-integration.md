@@ -116,3 +116,11 @@ Scalable Information Architecture
 Provisional Meta Observation
 
 Subject to refinement through future repository development.
+
+
+## Related Documents
+
+* Repository Classification System Emergence
+
+https://github.com/ai-text-project/ai-text-project-hub/blob/main/0-emergence-notes/00-research-program-evolution/26-%5BML%5D-repository-classification-system-emergence.md
+
