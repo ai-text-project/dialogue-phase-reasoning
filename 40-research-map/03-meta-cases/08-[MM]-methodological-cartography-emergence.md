@@ -39,6 +39,12 @@
 - Repository Classification System had already emerged as an organizational methodology.
 - Multiple Meta Cases documenting methodological emergence had been recorded.
 
+
+---
+
+
+## ③ Observed Emergence
+
 ---
 
 ## Methodological Architecture Overview
@@ -47,12 +53,12 @@ The methodological architecture that emerged during this observation is summariz
 
 ![Methodological Architecture of Structural Observation](https://raw.githubusercontent.com/ai-text-project/ai-text-project-hub/main/figures/Figure_Methodology-rv1.png)
 
-*Figure. Methodological Architecture of Structural Observation (AI Text Project Hub Repository).*
+* Figure. Methodological Architecture of Structural Observation (AI Text Project Hub Repository).*
+
+* Figure. Methodological architecture that became observable during the present dialogue.
 
 ---
 
-
-## ③ Observed Emergence
 
 The discussion shifted from evaluating individual methodological documents to organizing the relationships among those documents.
 
