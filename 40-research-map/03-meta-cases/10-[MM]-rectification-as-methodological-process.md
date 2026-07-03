@@ -155,3 +155,13 @@ Whereas the previous cases primarily documented the emergence of methodological 
 Provisional Meta Observation
 
 Subject to refinement through continued methodological observation.
+
+## Related Working Notes
+
+This methodological observation contributes to the evolving interpretation recorded in:
+
+- Research Note:
+  - case-81-84-85-methodological-layer-working-map.md
+
+The present Meta Case documents one observational event,
+whereas the Working Map summarizes the broader methodological structure emerging across multiple Meta Cases.
