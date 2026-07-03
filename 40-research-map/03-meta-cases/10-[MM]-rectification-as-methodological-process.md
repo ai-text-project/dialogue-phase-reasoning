@@ -165,3 +165,7 @@ This methodological observation contributes to the evolving interpretation recor
 
 The present Meta Case documents one observational event,
 whereas the Working Map summarizes the broader methodological structure emerging across multiple Meta Cases.
+
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/case-81-84-85-methodological-layer-working-map.md
+
