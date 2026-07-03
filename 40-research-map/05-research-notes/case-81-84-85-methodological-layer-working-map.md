@@ -177,3 +177,15 @@ Whether these become independent methodological dimensions remains an open resea
 Working Research Note
 
 Subject to continuous refinement through future methodological observation.
+
+
+## Primary Supporting Meta Cases
+
+The present working interpretation is primarily derived from the following observations:
+
+- Case81 — Methodological Architecture Mapping
+- Case84 — Methodological Observer Position Emergence
+- Case85 — Rectification as Methodological Process
+
+Additional Meta Cases may extend or reorganize the present interpretation.
+
