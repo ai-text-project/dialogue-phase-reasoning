@@ -257,3 +257,11 @@ Working Research Note
 Version v0.2
 
 Subject to continued refinement through future methodological observation.
+
+
+---
+
+## Related Documents
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/case-81-84-85-methodological-layer-working-map.md
+
