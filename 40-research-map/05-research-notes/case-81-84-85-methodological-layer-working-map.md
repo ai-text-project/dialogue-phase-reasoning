@@ -199,3 +199,10 @@ https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-researc
 
 Additional Meta Cases may extend or reorganize the present interpretation.
 
+---
+
+## Related Documents
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/005-methodological-layer-working-map.md
+
+
