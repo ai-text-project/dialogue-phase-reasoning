@@ -184,8 +184,18 @@ Subject to continuous refinement through future methodological observation.
 The present working interpretation is primarily derived from the following observations:
 
 - Case81 — Methodological Architecture Mapping
+
+
+
 - Case84 — Methodological Observer Position Emergence
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/09-%5BMM%5D-methodological-observer-position-emergence.md
+
 - Case85 — Rectification as Methodological Process
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/10-%5BMM%5D-rectification-as-methodological-process.md
+
+
 
 Additional Meta Cases may extend or reorganize the present interpretation.
 
