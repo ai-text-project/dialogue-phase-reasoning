@@ -185,7 +185,7 @@ The present working interpretation is primarily derived from the following obser
 
 - Case81 — Methodological Architecture Mapping
 
-
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/08-%5BMM%5D-methodological-cartography-emergence.md
 
 - Case84 — Methodological Observer Position Emergence
 
