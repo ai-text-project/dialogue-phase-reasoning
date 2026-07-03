@@ -263,5 +263,11 @@ Subject to continued refinement through future methodological observation.
 
 ## Related Documents
 
+https://github.com/ai-text-project/ai-text-project-hub/blob/main/03-research-space-topology/09-Methodological-Evolution-Model.md
+
+https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/03-meta-cases/11-%5BMM%5D-methodological-architecture-mapper-emergence.md
+
+
+
 https://github.com/ai-text-project/dialogue-phase-reasoning/blob/main/40-research-map/05-research-notes/case-81-84-85-methodological-layer-working-map.md
 
