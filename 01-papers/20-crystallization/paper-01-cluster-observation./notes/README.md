@@ -8,9 +8,7 @@ Ready
 
 ## Purpose
 
-This directory stores the abstract of the paper.
-
-The abstract provides a concise overview of the completed research and serves as the primary entry point for readers before accessing the full manuscript.
+This directory stores supplementary notes related to the paper.
 
 ---
 
