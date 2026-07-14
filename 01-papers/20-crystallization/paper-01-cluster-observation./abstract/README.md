@@ -76,7 +76,7 @@ Abstract
 
 The overall paper workflow is summarized in the following figure.
 
-![Paper Assembly Operational Flow](../figures/figure-01-paper-assembly-operational-flow-rv1.png)
+![Paper Assembly Operational Flow](../figure-01-paper-assembly-operational-flow-rv1.png)
 
 *Figure 1. Operational flow of the Paper Assembly process used during the development of the first Stage 2 (20-Crystallization) manuscript.*
 
