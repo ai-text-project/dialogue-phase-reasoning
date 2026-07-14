@@ -68,3 +68,13 @@ Abstract
 ## Related Documents
 
 - ../README.md
+
+---
+
+## Figire for this paper
+
+The overall image figure described in this document is summarized in the following figure.
+
+![Paper Figure](figure-01-paper-assembly-operational-flow-rv1.png)
+
+
