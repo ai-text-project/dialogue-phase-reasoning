@@ -71,10 +71,13 @@ Abstract
 
 ---
 
-## Figire for this paper
 
-The overall image figure described in this document is summarized in the following figure.
+## Overview Figure
 
-![Paper Figure](figure-01-paper-assembly-operational-flow-rv1.png)
+The overall paper workflow is summarized in the following figure.
+
+![Paper Assembly Operational Flow](../figures/figure-01-paper-assembly-operational-flow-rv1.png)
+
+*Figure 1. Operational flow of the Paper Assembly process used during the development of the first Stage 2 (20-Crystallization) manuscript.*
 
 
