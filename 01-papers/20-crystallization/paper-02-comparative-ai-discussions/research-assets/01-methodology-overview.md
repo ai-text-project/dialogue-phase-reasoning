@@ -108,3 +108,15 @@ Comparative Framework Overview
 This document summarizes the methodological architecture presented in the accompanying manuscript.
 
 It is intended as a navigational resource rather than a substitute for the full methodological description.
+
+
+---
+
+# Why Structural Observation?
+
+Traditional comparative studies frequently begin with transcripts, extracted themes, or manually defined categories.
+
+The methodology presented here instead begins with **structural observation**, allowing independent public discussions to be transformed into comparable observational records before comparative synthesis.
+
+This shift establishes a reusable workflow for cumulative comparative research.
+
