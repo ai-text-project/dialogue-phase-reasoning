@@ -4,99 +4,136 @@
 
 This document provides a structural overview of the research assets associated with this paper.
 
-Rather than reading the manuscript sequentially, readers may explore the available research assets according to their interests and objectives.
+Rather than reading the manuscript sequentially, readers may explore the research assets according to their interests and research objectives.
+
+This guide serves as a navigation layer connecting the available research assets.
 
 ---
 
-# Research Asset Map
+# Research Asset Structure
 
 ```text
+README
+      │
+      ▼
 Abstract
       │
       ▼
-Comparative Observation Method
+Methodology Overview
       │
       ▼
-Transcript Observation
+Observation Workflow
       │
       ▼
-Observation Corpus
+Observation Corpus Overview
       │
       ▼
-Comparative Framework
+Comparative Framework Overview
       │
       ▼
-Comparative Interpretation
+Key Contributions
+      │
+      ▼
+Publication Status
+      │
+      ▼
+Full Manuscript
 ```
 
 ---
 
-# Available Assets
+# Available Research Assets
 
 | Asset | Purpose |
 |--------|---------|
-| Abstract | Research overview |
-| Observation Corpus | Primary research asset |
-| Comparative Framework | Comparative synthesis |
 | README | Repository entry point |
-| Manuscript | Under editorial refinement |
+| Abstract | Research overview |
+| Methodology Overview | Introduces the proposed comparative methodology |
+| Observation Workflow | Explains the observational process |
+| Observation Corpus Overview | Describes the reusable Observation Corpus |
+| Comparative Framework Overview | Presents the comparative synthesis |
+| Key Contributions | Summarizes the principal research contributions |
+| Publication Status | Describes the current publication stage |
+| Full Manuscript | Under editorial refinement |
 
 ---
 
-# Reading Paths
+# Suggested Reading Paths
 
-## Reader A — Understand the Research Idea
+## Path A — Quick Overview
+
+For readers who would like a concise understanding of the study.
 
 ```text
 README
-
-↓
-
+    │
+    ▼
 Abstract
 ```
 
 ---
 
-## Reader B — Understand the Methodology
+## Path B — Methodology
+
+For readers interested in the proposed comparative methodology.
 
 ```text
 README
-
-↓
-
-Observation Method
-
-↓
-
-Observation Corpus
-
-↓
-
-Comparative Framework
-```
-
----
-
-## Reader C — Follow the Publication Path
-
-```text
-README
-
-↓
-
+    │
+    ▼
 Abstract
-
-↓
-
-Full Paper
+    │
+    ▼
+Methodology Overview
+    │
+    ▼
+Observation Workflow
 ```
 
 ---
 
-# Intended Use
+## Path C — Research Assets
 
-Different readers may enter the Research Program through different assets.
+For readers interested in the reusable research assets.
 
-Some may begin with the overall research concept, while others may focus on the observation methodology or the comparative framework.
+```text
+README
+    │
+    ▼
+Observation Corpus Overview
+    │
+    ▼
+Comparative Framework Overview
+    │
+    ▼
+Key Contributions
+```
 
-This guide is intended to support flexible navigation rather than a fixed reading sequence.
+---
+
+## Path D — Complete Paper
+
+For readers following the complete publication.
+
+```text
+README
+    │
+    ▼
+Abstract
+    │
+    ▼
+Publication Status
+    │
+    ▼
+Full Manuscript
+```
+
+---
+
+# Design Philosophy
+
+The research assets associated with this paper are published incrementally.
+
+Rather than presenting only the final manuscript, the repository exposes the developmental structure of the research through reusable intermediate assets.
+
+This approach enables readers to understand not only the research outcomes but also the methodological architecture supporting them.
