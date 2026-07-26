@@ -105,3 +105,17 @@ Development will continue while preserving the methodological architecture estab
 This paper forms part of the broader **Dialogue-Phase Reasoning Research Program**.
 
 The publication strategy reflects the program's commitment to developing and sharing reusable research assets through incremental refinement and structural organization.
+
+
+
+---
+
+# Note to Readers
+
+The current repository presents the research in its developmental form.
+
+Readers are encouraged to explore the available research assets as independent resources.
+
+The full manuscript will be published once the ongoing editorial refinement has been completed.
+
+
