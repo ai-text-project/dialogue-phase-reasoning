@@ -142,3 +142,14 @@ Comparative Framework Overview
 ```
 
 Together, these documents describe the complete transformation from public discussions to reusable comparative research assets.
+
+
+
+---
+
+# Operational Perspective
+
+This workflow represents an operational process rather than a fixed analytical procedure.
+
+Its value lies not only in individual observations, but also in the gradual accumulation of reusable research assets through repeated structural observation.
+
