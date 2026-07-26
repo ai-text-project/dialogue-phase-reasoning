@@ -108,3 +108,17 @@ Comparative Interpretation
 This document summarizes the Comparative Framework presented in the accompanying manuscript.
 
 It is intended as an overview of the comparative synthesis rather than a complete analytical discussion.
+
+
+
+---
+
+# Why the Comparative Framework Matters
+
+Individual Observation records preserve structural characteristics identified within specific public discussions.
+
+The Comparative Framework extends this process by integrating recurring observations into a unified comparative representation.
+
+Rather than replacing the Observation Corpus, the Framework provides a higher-level perspective through which accumulated observations can be interpreted collectively.
+
+The Comparative Framework therefore represents the comparative synthesis of the research rather than its starting point.
