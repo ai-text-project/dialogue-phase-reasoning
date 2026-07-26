@@ -137,3 +137,13 @@ The research assets associated with this paper are published incrementally.
 Rather than presenting only the final manuscript, the repository exposes the developmental structure of the research through reusable intermediate assets.
 
 This approach enables readers to understand not only the research outcomes but also the methodological architecture supporting them.
+
+
+---
+
+# Navigation Principle
+
+The repository is organized around reusable research assets rather than the sequential structure of the manuscript.
+
+Readers are encouraged to navigate the assets according to their interests, allowing multiple entry points into the research rather than a single linear reading order.
+
