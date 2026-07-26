@@ -118,3 +118,18 @@ The Corpus therefore serves as the principal research asset supporting subsequen
 This document summarizes the role of the Comparative Transcript Observation Corpus presented in the accompanying manuscript.
 
 It is intended as an overview of the research asset rather than a complete description of the methodological procedures.
+
+
+---
+
+# Why the Observation Corpus Matters
+
+Many comparative studies begin by revisiting original source materials whenever new analyses are performed.
+
+The Observation Corpus introduces an alternative approach.
+
+By preserving standardized structural observations as reusable research assets, comparative analyses can accumulate over time without repeatedly returning to the original discussions.
+
+The Observation Corpus therefore functions not merely as a collection of observations, but as an evolving research infrastructure supporting cumulative comparative inquiry.
+
+
