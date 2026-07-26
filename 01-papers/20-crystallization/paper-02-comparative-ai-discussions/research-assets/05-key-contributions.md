@@ -111,3 +111,14 @@ This document therefore serves as a summary of the principal outcomes produced b
 This document summarizes the principal contributions presented throughout the accompanying manuscript.
 
 It is intended as a concise overview of the study's contributions rather than a substitute for the complete discussion.
+
+
+---
+
+# Contribution Beyond This Paper
+
+The methodology and research assets presented here are intended to support future comparative investigations.
+
+Additional Observation records, expanded Observation Corpora, and refined Comparative Frameworks may be developed incrementally while preserving the methodological architecture introduced in this study.
+
+Accordingly, the present work should be viewed not only as an individual research paper but also as a foundation for continued comparative research.
