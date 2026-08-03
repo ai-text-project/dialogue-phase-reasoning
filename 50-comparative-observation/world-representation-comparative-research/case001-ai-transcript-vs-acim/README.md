@@ -30,6 +30,9 @@ Alberto Romero
 Published:
 July 29, 2026
 
+URL:
+https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell
+
         │
         ▼
 YouTube Transcript
