@@ -210,7 +210,7 @@ Comparative Analysis Pending
 
 Observation Date
 
-2026-08
+2026-08-04
 
 Repository
 
