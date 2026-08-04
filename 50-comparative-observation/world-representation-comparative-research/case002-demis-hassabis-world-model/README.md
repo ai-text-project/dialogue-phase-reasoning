@@ -1,5 +1,33 @@
 # Case002 — Demis Hassabis World Model Observation
 
+# Observation Metadata
+
+Observation Date
+
+2026-Aug-04
+
+Repository
+
+50-comparative-observation
+
+Case
+
+Case002
+
+Research Theme
+
+World Representation Comparative Research
+
+Observation Type
+
+Primary Observation
+
+Comparative Status
+
+Pending
+
+
+
 ## Status
 
 Observation Case (Provisional)
