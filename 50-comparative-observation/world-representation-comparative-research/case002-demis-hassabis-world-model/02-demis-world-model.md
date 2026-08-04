@@ -1,5 +1,42 @@
 # Demis Hassabis World Model
 
+# Observation Source
+
+Primary Source
+
+Public Lecture
+
+Speaker
+
+Demis Hassabis
+
+CEO, Google DeepMind
+
+Lecture
+
+Cambridge University Lecture
+
+Publication Date (YouTube)
+
+17 June 2026
+
+Source Type
+
+Public Research Lecture
+
+Observation Material
+
+Lecture Transcript
+
+Observation Scope
+
+The present observation is based exclusively on the lecture transcript.
+
+The objective is to examine how the concept of the World Model is described within the lecture itself.
+
+No additional interpretation or external sources are incorporated at this stage.
+
+
 ## Status
 
 Primary Observation
@@ -7,6 +44,9 @@ Primary Observation
 Case002
 
 ---
+
+
+
 
 # Purpose
 
