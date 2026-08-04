@@ -176,3 +176,129 @@ Observation Started
 Structural Projection in Progress
 
 No Final Conclusions
+
+
+# Observation Metadata
+
+## Repository
+
+50-comparative-observation
+
+---
+
+## Research Program
+
+World Representation Comparative Research
+
+---
+
+## Case
+
+Case002 — Demis Hassabis World Model
+
+---
+
+## Observation Status
+
+Primary Observation (Provisional)
+
+---
+
+## Primary Source
+
+Public AI Research Lecture
+
+---
+
+## Speaker
+
+Demis Hassabis
+
+CEO, Google DeepMind
+
+---
+
+## Lecture Information
+
+Title:
+Cambridge University Lecture
+
+Publication Platform:
+YouTube
+
+Publication Date:
+17 June 2026
+
+Publisher:
+LivingRoomTV (#LRTV)
+
+Observation Material:
+Lecture Transcript
+
+---
+
+## Observation Scope
+
+This case is based exclusively on the lecture transcript.
+
+The objective is to observe how the concept of the World Model is described within the lecture itself.
+
+No external interpretation or theoretical integration is introduced at this stage.
+
+---
+
+## Observation Objective
+
+To identify the structural organization of the World Model presented by Demis Hassabis before conducting any comparative analysis.
+
+---
+
+## Comparative Position
+
+The comparison with ACIM is intentionally deferred.
+
+Structural projection will be performed in later documents within this case.
+
+---
+
+## Observation Policy
+
+This case follows the Observation First principle.
+
+- Observe before interpreting.
+- Compare structures rather than terminology.
+- Preserve similarities and differences equally.
+- Record unresolved questions without forcing conclusions.
+
+---
+
+## Repository Position
+
+Case001
+
+↓
+
+Case002 (Current)
+
+↓
+
+Future Comparative Cases
+
+---
+
+## Observation Date
+
+August 2026
+
+---
+
+## Research Status
+
+Observation Started
+
+Primary Observation Completed
+
+Comparative Analysis Pending
+
+No Final Conclusions
+
