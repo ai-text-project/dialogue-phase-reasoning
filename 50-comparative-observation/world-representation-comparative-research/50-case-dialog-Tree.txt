@@ -1,0 +1,42 @@
+フォルダー パスの一覧:  ボリューム Windows
+ボリューム シリアル番号は 0000008E 0C50:10B5 です
+C:.
+|   50-case-dialog-Tree.txt
+|   README.md
+|   
++---case001-ai-transcript-vs-acim
+|   |   01-introduction.md
+|   |   02-ai-transcript-world-representation.md
+|   |   03-acim-world-representation.md
+|   |   05-discussion.md
+|   |   06-open-questions.md
+|   |   07-future-observations.md
+|   |   README.md
+|   |   
+|   \---04-comparative-analysis
+|           04-1-world.md
+|           04-2-representation.md
+|           04-3-prediction.md
+|           04-4-action.md
+|           04-5-intelligence.md
+|           README.md
+|           
+\---case002-demis-hassabis-world-model
+    |   01-introduction.md
+    |   02-demis-world-model.md
+    |   03-acim-comparison.md
+    |   05-discussion.md
+    |   06-open-questions.md
+    |   07-future-observations.md
+    |   50-case002-holder-Tree.txt
+    |   README.md
+    |   
+    \---04-comparative-analysis
+            01-world-and-representation.md
+            02-representation-and-search.md
+            03-prediction-and-time.md
+            04-action-and-projection.md
+            05-organizing-intelligence.md
+            06-structural-projection-summary.md
+            README.md
+            
