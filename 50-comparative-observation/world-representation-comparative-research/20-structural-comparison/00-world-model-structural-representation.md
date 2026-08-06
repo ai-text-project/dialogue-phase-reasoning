@@ -195,3 +195,19 @@ Repository
 Research Theme
 
 World Representation Comparative Research
+
+---
+
+# Repository Role
+
+Repository-Level Canonical Structural Representation
+
+This document serves as the canonical structural representation of the World Model.
+
+Its primary function is to provide a reusable structural coordinate system for comparative observation.
+
+It is independent of any individual comparison case.
+
+---
+
+
