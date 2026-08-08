@@ -182,6 +182,18 @@ These topics belong to other documents within the repository.
 
 ---
 
+# Boundary of Application
+
+This Navigation Architecture is designed for navigation within a single research repository.
+
+It does not define navigation across multiple repositories or repository ecosystems.
+
+Cross-repository navigation will be addressed separately within the Research Hub architecture.
+
+
+
+---
+
 # Version
 
 Navigation Architecture Definition v1.0 (Draft)
