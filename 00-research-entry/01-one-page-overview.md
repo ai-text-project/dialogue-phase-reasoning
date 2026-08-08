@@ -125,3 +125,18 @@ This document serves as the conceptual center of the Research Entry Package.
 It introduces the research program as a coherent intellectual project before readers begin exploring its individual components.
 
 Accordingly, it functions as the primary conceptual entry point into the Dialogue-Phase Reasoning repository.
+
+
+
+## Next
+
+If you would like to understand the research through its primary publications,
+
+➡ 01-papers/00-flagship-papers/README.md
+
+If you would like to understand the overall architecture,
+
+➡ 40-research-map/README.md
+
+
+
