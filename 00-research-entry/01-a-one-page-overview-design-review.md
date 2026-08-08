@@ -186,3 +186,15 @@ Only after these responsibilities are clearly separated should implementation pr
 # Version
 
 One-page Overview Design Review v1.0 (Draft)
+
+
+## Next
+
+If you would like to understand the research through its primary publications,
+
+➡ 01-papers/00-flagship-papers/README.md
+
+If you would like to understand the overall architecture,
+
+➡ 40-research-map/README.md
+
