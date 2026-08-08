@@ -194,3 +194,17 @@ These extensions should preserve the same responsibility separation defined in t
 # Version
 
 Research Entry Package File Responsibility Definition v1.0 (Draft)
+
+---
+
+# Boundary of Application
+
+This Navigation Architecture is designed for navigation within a single research repository.
+
+It does not define navigation across multiple repositories or repository ecosystems.
+
+Cross-repository navigation will be addressed separately within the Research Hub architecture.
+
+---
+
+
