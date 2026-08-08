@@ -130,13 +130,13 @@ Accordingly, it functions as the primary conceptual entry point into the Dialogu
 
 ## Next
 
-If you would like to understand the research through its primary publications,
+## Representative Papers
 
-➡ 01-papers/00-flagship-papers/README.md
+➡ **[Flagship Papers](../01-papers/00-flagship-papers/)**
 
-If you would like to understand the overall architecture,
+## Research Architecture
 
-➡ 40-research-map/README.md
+➡ **[Research Map](../40-research-map/)**
 
 
 
