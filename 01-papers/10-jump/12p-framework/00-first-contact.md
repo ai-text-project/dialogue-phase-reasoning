@@ -36,9 +36,9 @@ A visual representation of the operational measurement of dialogue-phase transit
 
 ### Full Paper
 
-For the complete argument, methodology, and experimental framework:
+The full 12-page manuscript is being prepared for submission to arXiv and is not publicly hosted in this repository.
 
-[Read the Full 12P Paper](./manuscript/README.md)
+If reviewing the complete manuscript would be helpful, it can be provided directly upon request.
 
 ---
 
